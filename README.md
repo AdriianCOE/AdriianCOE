@@ -1,31 +1,16 @@
 <div align="center">
-
 <img src="banner.svg" alt="Adrian Costa — Produto, código e território." width="100%" />
-
 <br/>
-
 <sub>Desenvolvedor full stack · Análise e Desenvolvimento de Sistemas · Ex-militar</sub>
-
 <br/><br/>
-
 <a href="https://pratoby.com"><img src="https://img.shields.io/badge/PratoBy-16A34A?style=flat-square&logoColor=white" alt="PratoBy" /></a>
 <a href="mailto:tommycramos@gmail.com"><img src="https://img.shields.io/badge/E--mail-111827?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 <a href="https://linkedin.com/in/adrian-costa-85b107277"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=views&color=0D1117&style=flat-square" alt="Contador de visitas" height="20"/>
-
-<br/><br/>
-
-<sub><a href="#identidade">Identidade</a> · <a href="#projetos">Projetos</a> · <a href="#tecnologias">Tecnologias</a> · <a href="#agora">Agora</a> · <a href="#contato">Contato</a></sub>
+<img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=views&color=0D1117&style=flat-square" alt="Contador de visitas"/>
 
 </div>
 
 <img src="divider.svg" width="100%" alt="" />
-
-<a name="identidade"></a>
-<sub>01 · Identidade</sub>
 
 ## Quem é Adrian Costa
 
@@ -38,9 +23,6 @@ Sou o único desenvolvedor por trás do [PratoBy](https://pratoby.com) — do fr
 <br clear="left"/>
 
 <img src="divider.svg" width="100%" alt="" />
-
-<a name="projetos"></a>
-<sub>02 · Projetos</sub>
 
 ## Projetos selecionados
 
@@ -82,34 +64,10 @@ Um universo original dentro do HOI4: dezenas de países, personagens, árvores d
 Combina programação orientada a dados, design de sistemas e worldbuilding — tudo dentro dos limites da engine e da estrutura de modding da Paradox.
 
 `Paradox Script` `GUI Modding` `Game Design` `Worldbuilding`
-
 <br clear="left"/>
-
 <img src="divider.svg" width="100%" alt="" />
 
-<a name="tecnologias"></a>
-<sub>03 · Tecnologias</sub>
-
-## Tecnologias
-
-**Frontend**
-`JavaScript` `React` `Vite` `Tailwind CSS` `HTML` `CSS`
-
-**Backend e infraestrutura**
-`Node.js` `Firebase` `Firestore` `Cloud Functions` `Git`
-
-**Jogos e criação**
-`Luau` `Paradox Script` `Enfusion Script` `DayZ Workbench` `Terrain Builder` `Blender`
-
-**Em desenvolvimento**
-`TypeScript` `C++` `Estruturas de Dados` `Arquitetura de Software`
-
-<img src="divider.svg" width="100%" alt="" />
-
-<a name="agora"></a>
-<sub>04 · Agora</sub>
-
-## Agora
+## Atualmente
 
 `01` **PratoBy** — segurança, desempenho e experiência de compra.
 `02` **Fernando de Noronha** — terreno, vegetação e ambientação do arquipélago.
@@ -118,17 +76,10 @@ Combina programação orientada a dados, design de sistemas e worldbuilding — 
 
 <img src="divider.svg" width="100%" alt="" />
 
-<a name="contato"></a>
-<sub>05 · Contato</sub>
-
-## Contato
-
 <div align="center">
-
 <a href="https://github.com/AdriianCOE"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://linkedin.com/in/adrian-costa-85b107277"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:tommycramos@gmail.com"><img src="https://img.shields.io/badge/E--mail-111827?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
-
 <br/><br/>
 
 <sub><a href="https://discordapp.com/users/adriiancoe">Discord</a> · <a href="https://instagram.com/AdriianCOE">Instagram</a></sub>
@@ -142,7 +93,6 @@ Combina programação orientada a dados, design de sistemas e worldbuilding — 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" alt="Gráfico de atividade no GitHub" width="100%" />
 </p>
-
 <p align="center">
   <img src="mark.svg" width="48" alt="Adrian Costa" />
   <br/>
