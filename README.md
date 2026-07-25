@@ -25,10 +25,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor independ
 
 Antes da tecnologia, servi no **Exército Brasileiro**, experiência que trouxe disciplina, responsabilidade e capacidade de execução sob pressão.
 
-<br/>
-<p align="center"><img src="divider.svg" width="100%" alt="" /></p>
-<br/>
-
 ##  Projetos
 
 ###  [PratoBy](https://pratoby.com)
@@ -52,10 +48,6 @@ Antes da tecnologia, servi no **Exército Brasileiro**, experiência que trouxe 
 
 **Ferramentas:** `Paradox Script` · `GUI Modding` · `Game Design` · `Worldbuilding`
 
-<br/>
-<p align="center"><img src="divider.svg" width="100%" alt="" /></p>
-<br/>
-
 <p align="center">
   <a href="https://discordapp.com/users/adriiancoe" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
@@ -69,6 +61,10 @@ Antes da tecnologia, servi no **Exército Brasileiro**, experiência que trouxe 
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+<br/>
+<p align="center"><img src="divider.svg" width="100%" alt="" /></p>
+<br/>
 
 <br/>
 
