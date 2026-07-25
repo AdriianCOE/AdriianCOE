@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme/banner.svg" alt="Adrian Costa — Produto, código e território." width="100%" />
+<img src="banner.svg" alt="Adrian Costa — Produto, código e território." width="100%" />
 
 <br/>
 
@@ -22,14 +22,14 @@
 
 </div>
 
-<img src="assets/readme/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <a name="identidade"></a>
 <sub>01 · Identidade</sub>
 
 ## Quem é Adrian Costa
 
-<img align="left" width="108" src="assets/readme/about.svg" alt="" />
+<img align="left" width="108" src="about.svg" alt="" />
 
 Servi no Exército Brasileiro, no 28º Batalhão de Caçadores, antes de migrar para o desenvolvimento de software. O que ficou de lá não é retórica: é o hábito de planejar antes de agir e de responder pelo resultado, dentro do prazo e sob pressão. Hoje curso Análise e Desenvolvimento de Sistemas e sigo aplicando esse hábito ao código.
 
@@ -37,7 +37,7 @@ Sou o único desenvolvedor por trás do [PratoBy](https://pratoby.com) — do fr
 
 <br clear="left"/>
 
-<img src="assets/readme/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <a name="projetos"></a>
 <sub>02 · Projetos</sub>
@@ -45,7 +45,7 @@ Sou o único desenvolvedor por trás do [PratoBy](https://pratoby.com) — do fr
 ## Projetos selecionados
 
 ### [PratoBy](https://pratoby.com)
-<img align="left" width="88" src="assets/readme/pratoby.svg" alt="" />
+<img align="left" width="88" src="pratoby.svg" alt="" />
 
 *Plataforma SaaS · cardápio digital e pedidos*
 
@@ -59,7 +59,7 @@ O trabalho real está no que não aparece — controle de planos, segurança de 
 <br/>
 
 ### [Fernando de Noronha](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
-<img align="left" width="88" src="assets/readme/noronha.svg" alt="" />
+<img align="left" width="88" src="noronha.svg" alt="" />
 
 *Mod para DayZ · recriação de terreno*
 
@@ -73,7 +73,7 @@ O desafio é de escala: modelagem de terreno, distribuição de vegetação, col
 <br/>
 
 ### [Azarya](https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217)
-<img align="left" width="88" src="assets/readme/azarya.svg" alt="" />
+<img align="left" width="88" src="azarya.svg" alt="" />
 
 *Conversão total · Hearts of Iron IV*
 
@@ -85,7 +85,7 @@ Combina programação orientada a dados, design de sistemas e worldbuilding — 
 
 <br clear="left"/>
 
-<img src="assets/readme/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <a name="tecnologias"></a>
 <sub>03 · Tecnologias</sub>
@@ -104,7 +104,7 @@ Combina programação orientada a dados, design de sistemas e worldbuilding — 
 **Em desenvolvimento**
 `TypeScript` `C++` `Estruturas de Dados` `Arquitetura de Software`
 
-<img src="assets/readme/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <a name="agora"></a>
 <sub>04 · Agora</sub>
@@ -116,7 +116,7 @@ Combina programação orientada a dados, design de sistemas e worldbuilding — 
 `03` **Azarya** — campanhas, sistemas e identidade visual.
 `04` **ADS** — estruturas de dados e arquitetura de software.
 
-<img src="assets/readme/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <a name="contato"></a>
 <sub>05 · Contato</sub>
@@ -135,7 +135,7 @@ Combina programação orientada a dados, design de sistemas e worldbuilding — 
 
 </div>
 
-<img src="assets/readme/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 <sub>Apêndice · Atividade</sub>
 
@@ -144,7 +144,7 @@ Combina programação orientada a dados, design de sistemas e worldbuilding — 
 </p>
 
 <p align="center">
-  <img src="assets/readme/mark.svg" width="48" alt="Adrian Costa" />
+  <img src="mark.svg" width="48" alt="Adrian Costa" />
   <br/>
   <sub>Este perfil é atualizado à medida que os projetos avançam.</sub>
 </p>
