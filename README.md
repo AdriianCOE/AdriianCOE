@@ -32,9 +32,12 @@
     alt="Perfil no LinkedIn"
   />
 </a>
+
+<br/><br/>
+
 <img
   src="https://komarev.com/ghpvc/?username=AdriianCOE&label=views&color=0D1117&style=flat-square"
-  alt="Contador de visitas"
+  alt="Contador de visitas do perfil"
 />
 
 </div>
@@ -62,11 +65,7 @@ Fora do desenvolvimento web, construo mundos, mapas e sistemas para jogos — pr
 
 <img src="divider.svg" width="100%" alt="" />
 
-<div align="left">
-
 ## Projetos
-</div>
-<br/>
 
 ### [PratoBy](https://pratoby.com)
 
@@ -77,8 +76,9 @@ Cardápio digital e sistema de pedidos para restaurantes, padarias e confeitaria
 Desenvolvo o produto completo: interface, backend, regras de negócio, cobrança, segurança e infraestrutura. O principal desafio está no que não aparece — controle de planos, processamento de pedidos, SEO por loja e uma arquitetura serverless que precisa permanecer confiável sem elevar o custo operacional.
 
 `React` `Vite` `Tailwind CSS` `Firebase` `Cloud Functions`
-<br clear="left"/>
+
 <br/>
+
 ### [Fernando de Noronha](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
 
 <sub>MOD PARA DAYZ · ARQUIPÉLAGO EM ESCALA 1:1</sub>
@@ -88,10 +88,19 @@ Recriação de Fernando de Noronha dentro do universo de sobrevivência do DayZ,
 O trabalho envolve terreno, vegetação, colisões, texturas, assets brasileiros e otimização de um ambiente aberto denso — equilibrando fidelidade geográfica, navegação e fluidez de gameplay.
 
 `DayZ Workbench` `Terrain Builder` `Enfusion Script` `Blender`
-<br clear="left"/>
+
+<br/>
+
+<p align="center">
+  <img src="palmeiras.webp" width="100%" alt="Fernando de Noronha, o arquipélago real por trás do mod" />
+  <br/>
+  <sub>O arquipélago real por trás do mod.</sub>
+</p>
+
 <br/>
 
 ### [Azarya](https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217)
+
 <sub>CONVERSÃO TOTAL · HEARTS OF IRON IV</sub>
 
 Universo original com dezenas de países, personagens, conflitos, árvores de foco, eventos e sistemas próprios de campanha.
@@ -99,29 +108,32 @@ Universo original com dezenas de países, personagens, conflitos, árvores de fo
 O projeto combina programação orientada a dados, design de sistemas, interface, narrativa e worldbuilding dentro das limitações da engine e da estrutura de modding da Paradox.
 
 `Paradox Script` `GUI Modding` `Game Design` `Worldbuilding`
-<br clear="left"/>
+
 <img src="divider.svg" width="100%" alt="" />
+
 <div align="center">
-<br/><br/>
+
 <a href="https://github.com/AdriianCOE">
   <img
     src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"
-    alt="GitHub"
+    alt="Perfil no GitHub"
   />
 </a>
 <a href="https://linkedin.com/in/adrian-costa-85b107277">
   <img
     src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
+    alt="Perfil no LinkedIn"
   />
 </a>
 <a href="mailto:tommycramos@gmail.com">
   <img
     src="https://img.shields.io/badge/E--mail-111827?style=flat-square&logo=gmail&logoColor=white"
-    alt="E-mail"
+    alt="Enviar e-mail"
   />
 </a>
+
 <br/><br/>
+
 <sub>
   <a href="https://discordapp.com/users/adriiancoe">Discord</a>
   &nbsp;·&nbsp;
@@ -143,15 +155,7 @@ O projeto combina programação orientada a dados, design de sistemas, interface
 </p>
 
 <p align="center">
-  <img
-    src="mark.svg"
-    width="48"
-    alt="Marca de Adrian Costa"
-  />
-
+  <img src="mark.svg" width="48" alt="Marca de Adrian Costa" />
   <br/>
-
-  <sub>
-    Este perfil acompanha o avanço dos projetos — não uma versão final deles.
-  </sub>
+  <sub>Este perfil acompanha o avanço dos projetos — não uma versão final deles.</sub>
 </p>
