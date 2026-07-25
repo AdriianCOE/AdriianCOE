@@ -24,8 +24,6 @@ Sou o único desenvolvedor por trás do [PratoBy](https://pratoby.com) — do fr
 
 <img src="divider.svg" width="100%" alt="" />
 
-## Projetos selecionados
-
 ### [PratoBy](https://pratoby.com)
 <img align="left" width="88" src="pratoby.svg" alt="" />
 
@@ -65,15 +63,6 @@ Combina programação orientada a dados, design de sistemas e worldbuilding — 
 
 `Paradox Script` `GUI Modding` `Game Design` `Worldbuilding`
 <br clear="left"/>
-<img src="divider.svg" width="100%" alt="" />
-
-## Atualmente
-
-`01` **PratoBy** — segurança, desempenho e experiência de compra.
-`02` **Fernando de Noronha** — terreno, vegetação e ambientação do arquipélago.
-`03` **Azarya** — campanhas, sistemas e identidade visual.
-`04` **ADS** — estruturas de dados e arquitetura de software.
-
 <img src="divider.svg" width="100%" alt="" />
 
 <div align="center">
