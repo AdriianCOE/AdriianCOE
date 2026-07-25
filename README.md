@@ -1,6 +1,6 @@
 <div align="center">
   <img src="banner.svg" width="100%" alt="Adrian Costa — Produto, código e território." />
-  <h2>Desenvolvedor Full Stack · ADS · Ex-militar</h2>
+  <h2>Desenvolvedor · ADS · Ex-militar</h2>
   <p>
     <a href="https://pratoby.com" target="_blank">
       <img src="https://img.shields.io/badge/PratoBy-16A34A?style=flat-square&logoColor=white" alt="PratoBy" />
@@ -48,6 +48,8 @@ Antes da tecnologia, servi no **Exército Brasileiro**, experiência que trouxe 
 
 **Ferramentas:** `Paradox Script` · `GUI Modding` · `Game Design` · `Worldbuilding`
 
+<br/>
+</div>
 <p align="center">
   <a href="https://discordapp.com/users/adriiancoe" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
@@ -64,8 +66,6 @@ Antes da tecnologia, servi no **Exército Brasileiro**, experiência que trouxe 
 
 <br/>
 <p align="center"><img src="divider.svg" width="100%" alt="" /></p>
-<br/>
-
 <br/>
 
 <p align="center">
