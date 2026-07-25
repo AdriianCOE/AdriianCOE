@@ -23,7 +23,7 @@
 ## Sobre mim
 Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor independente. Construo o [**PratoBy**](https://pratoby.com) de ponta a ponta e também desenvolvo sistemas, mapas e universos para jogos.
 
-Antes da tecnologia, servi no **Exército Brasileiro**, experiência que trouxe disciplina, responsabilidade e capacidade de execução sob pressão.
+Antes da tecnologia, servi no **28º Batalhão de Caçadores do Exército**, experiência que trouxe disciplina, responsabilidade e capacidade de execução sob pressão.
 
 ##  Projetos
 
