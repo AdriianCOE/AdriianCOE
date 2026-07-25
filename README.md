@@ -1,62 +1,85 @@
 <div align="center">
-
-<img src="banner.svg" width="100%" alt="Adrian Costa — Produto, código e território." />
-
-<br/>
-<strong>Desenvolvedor Full Stack · ADS · Ex-militar</strong>
-<br/><br/>
-<a href="https://pratoby.com"><img src="https://img.shields.io/badge/PratoBy-16A34A?style=flat-square&logoColor=white" alt="PratoBy" /></a> <a href="https://github.com/AdriianCOE"><img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://linkedin.com/in/adrian-costa-85b107277"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:tommycramos@gmail.com"><img src="https://img.shields.io/badge/E--mail-111827?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=visitas&color=0D1117&style=flat-square" alt="Visitas do perfil" /> <br/>
-
+  <img src="banner.svg" width="100%" alt="Adrian Costa — Produto, código e território." />
+  <h2>Desenvolvedor Full Stack · ADS · Ex-militar</h2>
+  <p>
+    <a href="https://pratoby.com" target="_blank">
+      <img src="https://img.shields.io/badge/PratoBy-16A34A?style=flat-square&logoColor=white" alt="PratoBy" />
+    </a>&nbsp;
+    <a href="https://github.com/AdriianCOE" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>&nbsp;
+    <a href="https://linkedin.com/in/adrian-costa-85b107277" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>&nbsp;
+    <a href="mailto:tommycramos@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
+    </a>
+<img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=visitas&color=0D1117&style=flat-square" alt="Visitas do perfil" />
+  </p>
 </div>
 
-## <img src="https://githubusercontent.com" alt="Technologist" width="35" height="35" /> Sobre
+<br/>
 
+## Sobre mim
 Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor independente. Construo o [**PratoBy**](https://pratoby.com) de ponta a ponta e também desenvolvo sistemas, mapas e universos para jogos.
 
-Antes da tecnologia, servi no **Exército Brasileiro**, experiência que trouxe disciplina, responsabilidade e execução sob pressão.
+Antes da tecnologia, servi no **Exército Brasileiro**, experiência que trouxe disciplina, responsabilidade e capacidade de execução sob pressão.
 
-<img src="divider.svg" width="100%" alt="" />
+<br/>
+<p align="center"><img src="divider.svg" width="100%" alt="" /></p>
+<br/>
 
-## Projetos
-### [PratoBy](https://pratoby.com)
+##  Projetos
 
-SaaS de cardápio digital e pedidos próprios para estabelecimentos venderem sem comissão de marketplace. Responsável por produto, frontend, backend, pagamentos, segurança e infraestrutura.
+###  [PratoBy](https://pratoby.com)
+> SaaS de cardápio digital e sistema de pedidos próprio, permitindo que estabelecimentos vendam sem comissões de marketplace. Responsável integral por produto, frontend, backend, pagamentos, segurança e infraestrutura.
 
-`React` `Vite` `Tailwind CSS` `Firebase` `Cloud Functions`
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Cloud Functions" />
+</p>
 
-### [Fernando de Noronha](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
+###  [Fernando de Noronha](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
+> Mapa em escala 1:1 para *DayZ*, com foco em fidelidade geográfica, ambientação tropical e otimização de mundo aberto.
 
-Mapa em escala 1:1 para DayZ, com foco em fidelidade geográfica, ambientação tropical e otimização de mundo aberto.
+**Ferramentas:** `DayZ Workbench` · `Terrain Builder` · `Enfusion Script` · `Blender`
 
-`DayZ Workbench` `Terrain Builder` `Enfusion Script` `Blender`
+###  [Azarya](https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217)
+> Conversão total para *Hearts of Iron IV* com universo próprio, dezenas de países, campanhas, eventos e sistemas originais.
 
-### [Azarya](https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217)
+**Ferramentas:** `Paradox Script` · `GUI Modding` · `Game Design` · `Worldbuilding`
 
-Conversão total para Hearts of Iron IV com universo próprio, dezenas de países, campanhas, eventos e sistemas originais.
-
-`Paradox Script` `GUI Modding` `Game Design` `Worldbuilding`
-
-<img src="divider.svg" width="100%" alt="" />
+<br/>
+<p align="center"><img src="divider.svg" width="100%" alt="" /></p>
+<br/>
 
 <p align="center">
   <a href="https://discordapp.com/users/adriiancoe" target="_blank">
-    <img src="https://shields.io" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
   </a>
   &nbsp;
   <a href="https://instagram.com/AdriianCOE" target="_blank">
-    <img src="https://shields.io" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   &nbsp;
   <a href="mailto:tommycramos@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" alt="Gráfico de atividade de Adrian Costa no GitHub" width="100%" /> </p> <p align="center"> <img src="mark.svg" width="48" alt="Marca de Adrian Costa" /> <br/> <sub>Este perfil acompanha o avanço dos projetos — não uma versão final deles.</sub> </p>
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" alt="Gráfico de atividade de Adrian Costa no GitHub" width="100%" />
+</p>
+
+<br/>
 
 <p align="center">
   <img src="mark.svg" width="40" alt="Marca de Adrian Costa" />
-  <br/>
-  <sub>Produtos em evolução contínua.</sub>
+  <br/><br/>
+  <sub><i>Produtos em evolução contínua.</i></sub>
 </p>
