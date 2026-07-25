@@ -77,5 +77,7 @@ Antes da tecnologia, servi no **28º Batalhão de Caçadores do Exército**, exp
 <p align="center">
   <img src="mark.svg" width="40" alt="Marca de Adrian Costa" />
   <br/><br/>
+  <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
+  <br/><br/>
   <sub><i>Produtos em evolução contínua.</i></sub>
 </p>
