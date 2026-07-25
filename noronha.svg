@@ -1,0 +1,18 @@
+<svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="noronhaTitle">
+  <title id="noronhaTitle">Ícone: topografia do arquipélago</title>
+  <defs>
+    <linearGradient id="cardGradNoronha" x1="0" y1="0" x2="160" y2="160" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="158" height="158" rx="14" fill="url(#cardGradNoronha)" stroke="#30363D" stroke-width="1"/>
+  <path d="M40,100 C55,70 75,60 90,65 C110,72 115,95 100,110 C85,124 55,122 40,100 Z" fill="none" stroke="#8B949E" stroke-width="1.1" opacity="0.6"/>
+  <path d="M48,95 C58,75 76,68 88,72 C102,78 106,94 95,104 C84,114 58,113 48,95 Z" fill="none" stroke="#F0F6FC" stroke-width="1.2" opacity="0.85"/>
+  <path d="M58,90 C64,80 76,76 84,79 C93,83 94,92 87,97 C80,102 64,101 58,90 Z" fill="none" stroke="#F0F6FC" stroke-width="1" opacity="0.6"/>
+  <circle cx="76" cy="88" r="3" fill="#16A34A"/>
+  <line x1="76" y1="76" x2="76" y2="84" stroke="#16A34A" stroke-width="1"/>
+  <line x1="64" y1="88" x2="72" y2="88" stroke="#16A34A" stroke-width="1"/>
+  <line x1="30" y1="40" x2="36" y2="46" stroke="#8B949E" stroke-width="1"/>
+  <line x1="130" y1="40" x2="124" y2="46" stroke="#8B949E" stroke-width="1"/>
+</svg>
