@@ -53,8 +53,8 @@ Motto......: "Live to fight another day, boys." — Hardcase
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdriianCOE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E&count_private=true" height="165" alt="Adrian's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriianCOE&layout=compact&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=8B949E&langs_count=6" height="165" alt="Top languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AdriianCOE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E&count_private=true" height="165" alt="Adrian's GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdriianCOE&layout=compact&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=8B949E&langs_count=6" height="165" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -67,10 +67,10 @@ Motto......: "Live to fight another day, boys." — Hardcase
 
 <p align="center">
   <a href="https://github.com/AdriianCOE/Noronha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdriianCOE&repo=Noronha&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" alt="Noronha" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=Noronha&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" alt="Noronha" />
   </a>
   <a href="https://github.com/AdriianCOE/Azarya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdriianCOE&repo=Azarya&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" alt="Azarya" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=Azarya&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" alt="Azarya" />
   </a>
 </p>
 
