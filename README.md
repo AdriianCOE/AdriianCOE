@@ -123,8 +123,10 @@ An original universe with dozens of countries, campaigns, events and custom syst
 <p align="center" style="margin-top: 24px; margin-bottom: 40px;">
   <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
   <br />
-  <img src="trooper.png" width="20" alt="Trooper Icon" style="margin-top: 8px; display: inline-block; vertical-align: middle;" />
+
+  <img src="trooper.png" width="20" alt="Trooper Icon" style="margin-top: 16px; display: inline-block; vertical-align: middle;" />
 </p>
+
 
 <p align="center">
   <img src="divider.svg" width="100%" alt="Divider" />
