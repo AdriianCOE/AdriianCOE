@@ -1,9 +1,7 @@
 <div align="center">
   <img src="banner.jpg" width="100%" alt="Adrian Costa" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=40&duration=3500&pause=1200&color=F0F6FC&center=true&vCenter=true&repeat=false&random=false&width=500&height=70&lines=Adrian+Costa" alt="Adrian Costa" />
-
-  <h2>Developer · Information Systems Student</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=36&duration=3500&pause=1200&color=F0F6FC&center=true&vCenter=true&repeat=false&random=false&width=500&height=55&lines=Adrian+Costa" alt="Adrian Costa" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=15&duration=3500&delay=1800&pause=1200&color=8B949E&center=true&vCenter=true&repeat=false&random=false&width=560&height=24&lines=Developer+%C2%B7+Information+Systems+Student+%C2%B7+Military+Enthusiast" alt="Developer · Information Systems Student · Military Enthusiast" />
 
   <p>
     <a href="https://discordapp.com/users/adriiancoe" target="_blank">
@@ -23,24 +21,24 @@
 
 <br/>
 
-<table>
+<table align="center">
 <tr>
-<td width="32%" align="center" valign="middle">
-  <img src="avatar.png" width="190" alt="Adrian Costa" />
+<td align="center" valign="middle">
+  <img src="avatar.png" width="160" alt="Adrian Costa" />
 </td>
-<td width="68%" valign="middle">
+<td valign="middle">
 
 ```txt
 Profile ver. 2.0
-────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────
 Name........: Adrian Costa · @AdriianCOE
-Role........: Indie developer · Information Systems student
+Role........: Indie developer · Info Systems student
 Location....: Aracaju, Brazil
-Background..: Former soldier — 28º Batalhão de Caçadores, Brazilian Army
-Building....: PratoBy — digital menu & ordering SaaS, solo end-to-end
-Side quests.: DayZ world-building · Hearts of Iron IV total conversions
-Stack.......: React · Vite · Tailwind CSS · Firebase · Cloud Functions
-Focus.......: Product · frontend · backend · payments · security · infra
+Background..: 28º Batalhão de Caçadores, Brazilian Army
+Building....: PratoBy — digital menu & ordering SaaS
+Side quests.: DayZ world-building · Hearts of Iron IV
+Stack.......: React · Vite · Tailwind · Firebase · GCF
+Focus.......: Product · frontend · backend · security
 ```
 
 </td>
@@ -110,7 +108,7 @@ An original universe with dozens of countries, campaigns, events and custom syst
 <p align="center"><img src="divider.svg" width="100%" alt="" /></p>
 <br/>
 
-<table>
+<table align="center">
 <tr>
 <td align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AdriianCOE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E&count_private=true" height="165" alt="Adrian's GitHub stats" />
@@ -130,5 +128,6 @@ An original universe with dozens of countries, campaigns, events and custom syst
 <p align="center">
   <img src="mark.svg" width="40" alt="Adrian Costa's mark" />
   <br/><br/>
+  <img src="trooper.png" width="22" valign="middle" alt="" />
   <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
 </p>
