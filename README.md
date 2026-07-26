@@ -120,11 +120,14 @@ An original universe with dozens of countries, campaigns, events and custom syst
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" width="100%" alt="Adrian Costa's GitHub activity graph" />
 </p>
 
-<p align="center" style="margin-top: 24px; margin-bottom: 40px;">
+<p align="center" style="margin-top: 24px; margin-bottom: 0;">
   <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
-  <br />
+</p>
 
-  <img src="trooper.png" width="20" alt="Trooper Icon" style="margin-top: 16px; display: inline-block; vertical-align: middle;" />
+<p align="center" style="margin: 0; line-height: 1;">&nbsp;</p>
+
+<p align="center" style="margin-top: 0; margin-bottom: 40px;">
+  <img src="trooper.png" width="20" alt="Trooper Icon" />
 </p>
 
 
