@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="banner.svg" width="100%" alt="Adrian Costa — Produto, código e território." />
-  <h2>Desenvolvedor · ADS · Ex-militar</h2>
+  <img src="banner.svg" width="100%" alt="Adrian Costa — Product, code and territory." />
+  <h2>Developer · Information Systems Student · Former Military</h2>
   <p>
     <a href="https://pratoby.com" target="_blank">
       <img src="https://img.shields.io/badge/PratoBy-16A34A?style=flat-square&logoColor=white" alt="PratoBy" />
@@ -14,21 +14,70 @@
     <a href="mailto:tommycramos@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
     </a>
-<img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=visitas&color=0D1117&style=flat-square" alt="Visitas do perfil" />
+    <img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=profile+views&color=0D1117&style=flat-square" alt="Profile views" />
   </p>
 </div>
 
 <br/>
 
-## Sobre mim
-Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor independente. Construo o [**PratoBy**](https://pratoby.com) de ponta a ponta e também desenvolvo sistemas, mapas e universos para jogos.
+## About
 
-Antes da tecnologia, servi no **28º Batalhão de Caçadores do Exército**, experiência que trouxe disciplina, responsabilidade e capacidade de execução sob pressão.
+Information Systems student and independent developer. I build [**PratoBy**](https://pratoby.com) end-to-end, and also design systems, maps and universes for games.
 
-##  Projetos
+Before tech, I served in the **28th Hunters Battalion**, Brazilian Army — an experience that shaped discipline, responsibility and the ability to execute under pressure.
 
-###  [PratoBy](https://pratoby.com)
-> SaaS de cardápio digital e sistema de pedidos próprio, permitindo que estabelecimentos vendam sem comissões de marketplace. Responsável integral por produto, frontend, backend, pagamentos, segurança e infraestrutura.
+<table>
+<tr>
+<td width="30%" align="center">
+  <img src="mark.svg" width="160" alt="Adrian Costa's mark" />
+</td>
+<td width="70%">
+
+```txt
+Profile ver. 2.0
+------------------------------------------------------------------------
+Name.......: Adrian Costa (AdriianCOE)
+Role.......: Indie Developer · Information Systems Student (ADS)
+Background.: Former soldier — 28th Hunters Battalion, Brazilian Army
+Building...: PratoBy — digital menu & ordering SaaS, built solo end-to-end
+SideQuests.: DayZ world-building, Hearts of Iron IV total conversions
+Stack......: React · Vite · Tailwind CSS · Firebase · Cloud Functions
+Focus......: Product, frontend, backend, payments, security, infra
+Motto......: "Live to fight another day, boys." — Hardcase
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdriianCOE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E&count_private=true" height="165" alt="Adrian's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriianCOE&layout=compact&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=8B949E&langs_count=6" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=iiztommy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=iiztommy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=light&bar_color=53b14f&bar_color_cover=true" alt="Spotify now playing" />
+  </a>
+</p>
+
+## Top Repositories
+
+<p align="center">
+  <a href="https://github.com/AdriianCOE/Noronha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdriianCOE&repo=Noronha&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" alt="Noronha" />
+  </a>
+  <a href="https://github.com/AdriianCOE/Azarya">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdriianCOE&repo=Azarya&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" alt="Azarya" />
+  </a>
+</p>
+
+## Projects
+
+### [PratoBy](https://pratoby.com)
+> Digital menu & ordering SaaS that lets restaurants sell without marketplace commissions. Full ownership of product, frontend, backend, payments, security and infrastructure.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -38,18 +87,18 @@ Antes da tecnologia, servi no **28º Batalhão de Caçadores do Exército**, exp
   <img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Cloud Functions" />
 </p>
 
-###  [Fernando de Noronha](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
-> Mapa em escala 1:1 para *DayZ*, com foco em fidelidade geográfica, ambientação tropical e otimização de mundo aberto.
+### [Fernando de Noronha](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
+> 1:1 scale map for *DayZ*, focused on geographic accuracy, tropical atmosphere and open-world optimization.
 
-**Ferramentas:** `DayZ Workbench` · `Terrain Builder` · `Enfusion Script` · `Blender`
+**Tools:** `DayZ Workbench` · `Terrain Builder` · `Enfusion Script` · `Blender`
 
-###  [Azarya](https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217)
-> Conversão total para *Hearts of Iron IV* com universo próprio, dezenas de países, campanhas, eventos e sistemas originais.
+### [Azarya](https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217)
+> Total conversion for *Hearts of Iron IV* with an original universe — dozens of countries, campaigns, events and custom systems.
 
-**Ferramentas:** `Paradox Script` · `GUI Modding` · `Game Design` · `Worldbuilding`
+**Tools:** `Paradox Script` · `GUI Modding` · `Game Design` · `Worldbuilding`
 
 <br/>
-</div>
+
 <p align="center">
   <a href="https://discordapp.com/users/adriiancoe" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord">
@@ -69,15 +118,13 @@ Antes da tecnologia, servi no **28º Batalhão de Caçadores do Exército**, exp
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" alt="Gráfico de atividade de Adrian Costa no GitHub" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" alt="Adrian Costa's GitHub activity graph" width="100%" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="mark.svg" width="40" alt="Marca de Adrian Costa" />
-  <br/><br/>
   <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
   <br/><br/>
-  <sub><i>Produtos em evolução contínua.</i></sub>
+  <sub><i>Products in continuous evolution.</i></sub>
 </p>
