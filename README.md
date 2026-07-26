@@ -123,7 +123,7 @@ An original universe with dozens of countries, campaigns, events and custom syst
 <br/>
 
 <p align="center"> 
-  <i>"Live to fight another day, boys."</i> — <b>Hardcase</b> <img src="trooper.png" width="20" alt="" />
+  <i>"Live to fight another day, boys."</i> — <b>Hardcase</b> <img src="trooper.png" width="12" alt="" />
 </p>
 
 <br/>
