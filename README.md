@@ -29,16 +29,15 @@
 <td valign="middle">
 
 ```txt
-Profile ver. 2.0
-───────────────────────────────────────────────────────
+── adriancosta.dev ───────────────────────────────────
 Name........: Adrian Costa · @AdriianCOE
-Role........: Indie developer · Info Systems student
+Role........: Indie Developer · Info Systems Student
 Location....: Aracaju, Brazil
-Background..: 28º Batalhão de Caçadores, Brazilian Army
-Building....: PratoBy — digital menu & ordering SaaS
-Side quests.: DayZ world-building · Hearts of Iron IV
+Current.....: Building PratoBy (Digital Menu & Ordering SaaS)
+Past........: Former Soldier · 28º Batalhão de Caçadores (EB)
 Stack.......: React · Vite · Tailwind · Firebase · GCF
-Focus.......: Product · frontend · backend · security
+Focus.......: Product · Frontend · Backend · Security
+Side quests.: DayZ World-building · Hearts of Iron IV
 ```
 
 </td>
@@ -123,10 +122,8 @@ An original universe with dozens of countries, campaigns, events and custom syst
 
 <br/>
 
-<p align="center">
-  <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
-  <br/><br/>
-  <img src="trooper.png" width="28" alt="" />
+<p align="center"> 
+  <i>"Live to fight another day, boys."</i> — <b>Hardcase</b> <img src="trooper.png" width="28" alt="" />
 </p>
 
 <br/>
