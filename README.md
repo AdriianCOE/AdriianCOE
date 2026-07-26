@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" width="100%" alt="Adrian Costa — Product, code and territory." />
+  <img src="banner.jpg" width="100%" alt="Adrian Costa — Product, code and territory." />
   <h2>Developer · Information Systems Student · Former Military</h2>
   <p>
     <a href="https://pratoby.com" target="_blank">
@@ -55,21 +55,20 @@ Focus.......: Product · frontend · backend · payments · security · infra
 <tr>
 <td width="44%" align="center" valign="middle">
   <a href="https://pratoby.com" target="_blank">
-    <img src="https://img.shields.io/badge/PratoBy-16A34A?style=for-the-badge&logoColor=white" height="32" alt="PratoBy" />
+    <img src="pratoby-cover.jpg" width="100%" alt="PratoBy — digital menu and ordering panel" />
   </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Cloud Functions" />
 </td>
 <td width="56%" valign="top">
 
 **[PratoBy](https://pratoby.com)** — digital menu & ordering SaaS
 
 Lets restaurants sell without marketplace commissions. Full ownership of product, frontend, backend, payments, security and infrastructure.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Cloud Functions" />
 
 <sub>Closed-source · live in production</sub>
 
