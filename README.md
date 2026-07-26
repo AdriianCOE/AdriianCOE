@@ -118,15 +118,14 @@ An original universe with dozens of countries, campaigns, events and custom syst
 
 <!-- Gráfico de Atividade -->
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Adrian Costa's GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" width="100%" alt="Adrian Costa's GitHub activity graph" />
 </p>
 
-<!-- Citação com Espaçamento Ajustado e Ícone Corrigido -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 6px; margin-top: 24px; margin-bottom: 16px;">
-  <span style="display: inline-flex; align-items: center; gap: 6px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 8px; margin-top: 24px; margin-bottom: 20px;">
+  <span>
     <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
   </span>
-  <img src="trooper.png" width="16" alt="" style="object-fit: contain; vertical-align: middle;" />
+  <img src="trooper.png" width="16" alt="" style="object-fit: contain;" />
 </div>
 
 <!-- Divisor -->
