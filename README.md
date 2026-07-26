@@ -122,11 +122,12 @@ An original universe with dozens of countries, campaigns, events and custom syst
 </p>
 
 <br/>
-<p align="center"><img src="divider.svg" width="100%" alt="" /></p>
-<br/>
 
 <p align="center">
   <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
   <br/><br/>
   <img src="trooper.png" width="28" alt="" />
 </p>
+
+<br/>
+<p align="center"><img src="divider.svg" width="100%" alt="" /></p>
