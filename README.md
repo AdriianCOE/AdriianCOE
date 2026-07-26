@@ -126,8 +126,7 @@ An original universe with dozens of countries, campaigns, events and custom syst
 <br/>
 
 <p align="center">
-  <img src="mark.svg" width="40" alt="Adrian Costa's mark" />
-  <br/><br/>
-  <img src="trooper.png" width="22" valign="middle" alt="" />
   <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
+  <br/><br/>
+  <img src="trooper.png" width="28" alt="" />
 </p>
