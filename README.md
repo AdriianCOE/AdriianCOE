@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Adrian Costa — Product, code and territory." />
-  <h2>Developer · Information Systems Student · Former Military</h2>
+  <img src="banner.jpg" width="100%" alt="Adrian Costa" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=40&duration=3500&pause=1200&color=F0F6FC&center=true&vCenter=true&repeat=false&random=false&width=500&height=70&lines=Adrian+Costa" alt="Adrian Costa" />
+
+  <h2>Developer · Information Systems Student</h2>
+
   <p>
-    <a href="https://pratoby.com" target="_blank">
-      <img src="https://img.shields.io/badge/PratoBy-16A34A?style=flat-square&logoColor=white" alt="PratoBy" />
-    </a>&nbsp;
-    <a href="https://linkedin.com/in/adrian-costa-85b107277" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>&nbsp;
     <a href="https://discordapp.com/users/adriiancoe" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-    </a>&nbsp;
+      <img src="https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
     <a href="https://instagram.com/AdriianCOE" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>&nbsp;
+      <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
     <a href="mailto:tommycramos@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" />
-    </a>&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=profile+views&color=0D1117&style=flat-square" alt="Profile views" />
+      <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    </a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=Profile+Views&color=000000&style=for-the-badge" alt="Profile views" />
   </p>
 </div>
 
@@ -36,7 +36,7 @@ Profile ver. 2.0
 Name........: Adrian Costa · @AdriianCOE
 Role........: Indie developer · Information Systems student
 Location....: Aracaju, Brazil
-Background..: Former soldier — 28th Hunters Battalion, Brazilian Army
+Background..: Former soldier — 28º Batalhão de Caçadores, Brazilian Army
 Building....: PratoBy — digital menu & ordering SaaS, solo end-to-end
 Side quests.: DayZ world-building · Hearts of Iron IV total conversions
 Stack.......: React · Vite · Tailwind CSS · Firebase · Cloud Functions
@@ -110,10 +110,14 @@ An original universe with dozens of countries, campaigns, events and custom syst
 <p align="center"><img src="divider.svg" width="100%" alt="" /></p>
 <br/>
 
-<p align="center">
+<table>
+<tr>
+<td align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=AdriianCOE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E&count_private=true" height="165" alt="Adrian's GitHub stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdriianCOE&layout=compact&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=8B949E&langs_count=6" height="165" alt="Top languages" />
-</p>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" width="100%" alt="Adrian Costa's GitHub activity graph" />
@@ -127,6 +131,4 @@ An original universe with dozens of countries, campaigns, events and custom syst
   <img src="mark.svg" width="40" alt="Adrian Costa's mark" />
   <br/><br/>
   <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
-  <br/><br/>
-  <sub><i>Products in continuous evolution.</i></sub>
 </p>
