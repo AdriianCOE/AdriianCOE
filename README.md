@@ -124,9 +124,7 @@ An original universe with dozens of countries, campaigns, events and custom syst
   <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
 </p>
 
-<p align="center" style="margin: 0; line-height: 1;">&nbsp;</p>
-
-<p align="center" style="margin-top: 0; margin-bottom: 40px;">
+<p align="center" style="margin-top: 4px; margin-bottom: 40px;">
   <img src="trooper.png" width="20" alt="Trooper Icon" />
 </p>
 
