@@ -29,18 +29,16 @@
 <td valign="middle">
 
 ```txt
-adriancosta.dev
-───────────────────────────────────────────────────────
+┌── adriancosta.dev ───────────────────────────────────┐
 Name........: Adrian Costa · @AdriianCOE
 Role........: Indie Developer · Info Systems Student
 Location....: Aracaju, Brazil
-
 Current.....: Building PratoBy (Digital Menu & Ordering SaaS)
 Past........: Former Soldier · 28º Batalhão de Caçadores (EB)
-
 Stack.......: React · Vite · Tailwind · Firebase · GCF
 Focus.......: Product · Frontend · Backend · Security
 Side quests.: DayZ World-building · Hearts of Iron IV
+└───────────────────────────────────────────────────────┘
 ```
 
 </td>
