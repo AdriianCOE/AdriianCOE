@@ -55,15 +55,8 @@ Focus.......: Product · frontend · backend · payments · security · infra
 <tr>
 <td width="44%" align="center" valign="middle">
   <a href="https://pratoby.com" target="_blank">
-    <img src="pratoby-mark.png" width="52" alt="PratoBy" />
+    <img src="pratoby-card.svg" width="100%" alt="PratoBy" />
   </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Cloud Functions" />
 </td>
 <td width="56%" valign="top">
 
@@ -71,7 +64,9 @@ Focus.......: Product · frontend · backend · payments · security · infra
 
 Lets restaurants sell without marketplace commissions. Full ownership of product, frontend, backend, payments, security and infrastructure.
 
-<sub>Closed-source · live in production</sub>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 
 </td>
 </tr>
@@ -111,6 +106,8 @@ An original universe with dozens of countries, campaigns, events and custom syst
 </tr>
 </table>
 
+<br/>
+<p align="center"><img src="divider.svg" width="100%" alt="" /></p>
 <br/>
 
 <p align="center">
