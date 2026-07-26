@@ -116,15 +116,18 @@ An original universe with dozens of countries, campaigns, events and custom syst
 </tr>
 </table>
 
+<!-- Gráfico de Atividade -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" width="100%" alt="Adrian Costa's GitHub activity graph" />
 </p>
 
-<br/>
+<!-- Citação com Ícone Alinhado -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 6px; margin: 24px 0;">
+  <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
+  <img src="trooper.png" width="16" height="16" alt="" style="display: inline-block; vertical-align: middle;" />
+</div>
 
-<p align="center"> 
-  <i>"Live to fight another day, boys."</i> — <b>Hardcase</b> <img src="trooper.png" width="12" alt="" />
+<!-- Divisor -->
+<p align="center">
+  <img src="divider.svg" width="100%" alt="" />
 </p>
-
-<br/>
-<p align="center"><img src="divider.svg" width="100%" alt="" /></p>
