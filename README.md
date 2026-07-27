@@ -32,10 +32,6 @@ alt="GitHub profile views"
 
 </div>
 
-<p align="center">
-  <img src="divider.svg" width="100%" alt="" />
-</p>
-
 ## About me
 
 <table align="center">
@@ -47,14 +43,13 @@ alt="GitHub profile views"
 
 ```txt
 ─── adriancosta.dev ───────────────────────────────────
-
 Name........: Adrian Costa · @AdriianCOE
 Location....: Aracaju, Sergipe · Brazil
 Role........: Indie Developer · Product Builder
-Education...: Systems Analysis & Development
+Education...: Systems Analysis & Development Student
 Current.....: Building PratoBy
 Background..: Former Brazilian Army soldier · 28º BC
-Stack.......: React · Vite · Tailwind · Firebase · Node.js
+Stack.......: React · Vite · Tailwind · Firebase
 Focus.......: Product · Frontend · Backend · Security
 Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
 ```
