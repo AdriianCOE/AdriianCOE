@@ -125,10 +125,6 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" width="100%" alt="Adrian Costa's GitHub activity graph" />
 </p>
 
-<p align="center">
-  <img src="divider.svg" width="100%" alt="Divider" />
-</p>
-
 <div align="center">
   <a href="https://ko-fi.com/M5U123Y4S4">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Adrian Costa on Ko-fi" />
