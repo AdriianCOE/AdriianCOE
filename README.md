@@ -56,75 +56,50 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
 ## Projects
 
 <table width="100%">
-  <!-- PratoBy -->
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <a href="https://pratoby.com">
-        <img src="pratoby-card.svg" width="100%" alt="PratoBy digital menu and ordering platform" />
+    <td width="44%" align="center" valign="top">
+      <a href="https://pratoby.com" target="_blank">
+        <img src="pratoby-card.svg" width="100%" alt="PratoBy" />
       </a>
     </td>
-    <td width="60%" valign="middle">
-      <h2><a href="https://pratoby.com">PratoBy</a></h2>
-      <p><strong>Digital menu and ordering SaaS for restaurants.</strong></p>
-      <p>Independent storefronts, digital menus and order management without marketplace commissions.</p>
-      <div>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-      </div>
+    <td width="56%" valign="top">
+      <strong><a href="https://pratoby.com">PratoBy</a></strong> — digital menu & ordering SaaS<br><br>
+      Lets restaurants sell without marketplace commissions. Full ownership of product, frontend, backend, payments, security and infrastructure.<br><br>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
     </td>
   </tr>
 
-  <!-- Espaçador -->
-  <tr height="30">
-    <td></td>
-    <td></td>
-  </tr>
-
-  <!-- Fernando de Noronha -->
   <tr>
-    <td width="40%" align="center" valign="middle">
+    <td width="44%" align="center" valign="top">
       <a href="https://github.com/AdriianCOE/Noronha">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=Noronha&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" width="100%" alt="Noronha GitHub repository" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=Noronha&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" width="100%" alt="Noronha" />
       </a>
     </td>
-    <td width="60%" valign="middle">
-      <h2><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894">Fernando de Noronha</a></h2>
-      <p><strong>A 1:1 scale Brazilian map for DayZ.</strong></p>
-      <p>A recreation of the archipelago focused on geographic fidelity, tropical atmosphere and open-world performance.</p>
-      <div>
-        <img src="https://img.shields.io/badge/DayZ-1F2428?style=flat-square" alt="DayZ" />
-        <img src="https://img.shields.io/badge/Enfusion-1F2428?style=flat-square" alt="Enfusion" />
-        <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-        <img src="https://img.shields.io/badge/Worldbuilding-16A34A?style=flat-square" alt="Worldbuilding" />
-      </div>
+    <td width="56%" valign="top">
+      <strong><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894">Fernando de Noronha</a></strong> — 1:1 scale map for <em>DayZ</em><br><br>
+      Geographic fidelity, tropical atmosphere and open-world optimization. Built as the first fully Brazilian map for the game.<br><br>
+      <img src="https://img.shields.io/badge/DayZ%20Workbench-1F2428?style=flat-square" alt="DayZ Workbench" />
+      <img src="https://img.shields.io/badge/Terrain%20Builder-1F2428?style=flat-square" alt="Terrain Builder" />
+      <img src="https://img.shields.io/badge/Enfusion%20Script-1F2428?style=flat-square" alt="Enfusion Script" />
+      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
     </td>
   </tr>
 
-  <!-- Espaçador -->
-  <tr height="30">
-    <td></td>
-    <td></td>
-  </tr>
-
-  <!-- Azarya -->
   <tr>
-    <td width="40%" align="center" valign="middle">
+    <td width="44%" align="center" valign="top">
       <a href="https://github.com/AdriianCOE/Azarya">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=Azarya&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" width="100%" alt="Azarya GitHub repository" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=Azarya&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" width="100%" alt="Azarya" />
       </a>
     </td>
-    <td width="60%" valign="middle">
-      <h2><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217">Azarya</a></h2>
-      <p><strong>A total-conversion mod for Hearts of Iron IV.</strong></p>
-      <p>An original universe with custom nations, political campaigns, characters, conflicts and gameplay systems.</p>
-      <div>
-        <img src="https://img.shields.io/badge/Hearts%20of%20Iron%20IV-1F2428?style=flat-square" alt="Hearts of Iron IV" />
-        <img src="https://img.shields.io/badge/Paradox%20Script-16A34A?style=flat-square" alt="Paradox Script" />
-        <img src="https://img.shields.io/badge/Game%20Design-1F2428?style=flat-square" alt="Game Design" />
-        <img src="https://img.shields.io/badge/Worldbuilding-16A34A?style=flat-square" alt="Worldbuilding" />
-      </div>
+    <td width="56%" valign="top">
+      <strong><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217">Azarya</a></strong> — total conversion for <em>Hearts of Iron IV</em><br><br>
+      An original universe with dozens of countries, campaigns, events and custom systems written from scratch.<br><br>
+      <img src="https://img.shields.io/badge/Paradox%20Script-1F2428?style=flat-square" alt="Paradox Script" />
+      <img src="https://img.shields.io/badge/GUI%20Modding-1F2428?style=flat-square" alt="GUI Modding" />
+      <img src="https://img.shields.io/badge/Game%20Design-1F2428?style=flat-square" alt="Game Design" />
+      <img src="https://img.shields.io/badge/Worldbuilding-16A34A?style=flat-square" alt="Worldbuilding" />
     </td>
   </tr>
 </table>
