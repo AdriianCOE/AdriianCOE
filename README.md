@@ -69,6 +69,7 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://shields.io" alt="Cloudflare" />
     </td>
   </tr>
 
