@@ -3,16 +3,12 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=38&duration=3000&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=650&height=45&lines=Adrian+Costa" alt="Adrian Costa" />
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=16&duration=3000&delay=1500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=720&height=28&lines=Developer+%C2%B7+ADS+Student+%C2%B7+Worldbuilder" alt="Developer · ADS Student · Worldbuilder" />
-
   <p>I build digital products, fictional worlds and game experiences.</p>
-
 <p>
   <a href="https://pratoby.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PratoBy-FF5722?style=for-the-badge&logoColor=white" alt="PratoBy" /></a> <a href="https://discordapp.com/users/adriiancoe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-1F2428?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://instagram.com/AdriianCOE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-1F2428?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="mailto:tommycramos@gmail.com"><img src="https://img.shields.io/badge/Email-1F2428?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://ko-fi.com/M5U123Y4S4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ko--fi-1F2428?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
 </p>
-
   <img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=Profile+Views&color=1F2428&style=flat-square" alt="GitHub profile views" />
 </div>
-
 <h2 align="center">About me</h2>
 
 <table align="center">
