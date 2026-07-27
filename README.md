@@ -29,12 +29,14 @@
 
 ## About me
 
-<table width="100%">
+<h2 align="center">About me</h2>
+
+<table align="center">
   <tr>
-    <td width="25%" align="center" valign="middle">
+    <td align="center" valign="middle">
       <img src="avatar.png" width="160" alt="Adrian Costa avatar" />
     </td>
-    <td width="75%" valign="middle">
+    <td valign="middle">
 
 ```txt
 ─── adriancosta.dev ───────────────────────────────────
@@ -118,59 +120,44 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
   <img src="divider.svg" width="100%" alt="Divider" />
 </p>
 
-## GitHub activity
+<h2 align="center">GitHub activity</h2>
 
 <table align="center">
-<tr>
-<td align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=AdriianCOE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E&count_private=true"
-    height="165"
-    alt="Adrian Costa's GitHub statistics"
-  />
-</td>
-<td align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdriianCOE&layout=compact&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=8B949E&langs_count=6"
-    height="165"
-    alt="Adrian Costa's most used languages"
-  />
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=AdriianCOE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E&count_private=true" height="165" alt="Adrian Costa's GitHub statistics" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdriianCOE&layout=compact&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=8B949E&langs_count=6" height="165" alt="Adrian Costa's most used languages" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true"
-    width="100%"
-    alt="Adrian Costa's GitHub activity graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" width="100%" alt="Adrian Costa's GitHub activity graph" />
 </p>
 
-</div>
-
 <p align="center">
-  <img src="divider.svg" width="100%" alt="" />
+  <img src="divider.svg" width="100%" alt="Divider" />
 </p>
 
 <div align="center">
+  <h3>Support my work</h3>
+  
+  <p>Supporting me helps fund hosting, development tools, assets and independent projects.</p>
 
-### Support my work
+  <a href="https://ko-fi.com/M5U123Y4S4">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Adrian Costa on Ko-fi" />
+  </a>
 
-Supporting me helps fund hosting, development tools, assets and independent projects.
+  <br><br>
 
-<a href="https://ko-fi.com/M5U123Y4S4">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Adrian Costa on Ko-fi" />
-</a>
+  <p>
+    <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
+  </p>
 
-<p align="center" style="margin-top: 24px; margin-bottom: 0;">
-  <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
-</p>
-
-<p align="center" style="margin-top: 4px; margin-bottom: 40px;">
   <img src="trooper.png" width="20" alt="Trooper Icon" />
-</p>
-
+</div>
 
 <p align="center">
   <img src="divider.svg" width="100%" alt="Divider" />
