@@ -27,8 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=Profile+Views&color=1F2428&style=flat-square" alt="GitHub profile views" />
 </div>
 
-## About me
-
 <h2 align="center">About me</h2>
 
 <table align="center">
@@ -58,6 +56,7 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
 ## Projects
 
 <table width="100%">
+  <!-- PratoBy -->
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://pratoby.com">
@@ -65,7 +64,7 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
       </a>
     </td>
     <td width="60%" valign="middle">
-      <h3><a href="https://pratoby.com">PratoBy</a></h3>
+      <h2><a href="https://pratoby.com">PratoBy</a></h2>
       <p><strong>Digital menu and ordering SaaS for restaurants.</strong></p>
       <p>Independent storefronts, digital menus and order management without marketplace commissions.</p>
       <div>
@@ -77,6 +76,13 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
     </td>
   </tr>
 
+  <!-- Espaçador -->
+  <tr height="30">
+    <td></td>
+    <td></td>
+  </tr>
+
+  <!-- Fernando de Noronha -->
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/AdriianCOE/Noronha">
@@ -84,7 +90,7 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
       </a>
     </td>
     <td width="60%" valign="middle">
-      <h3><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894">Fernando de Noronha</a></h3>
+      <h2><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894">Fernando de Noronha</a></h2>
       <p><strong>A 1:1 scale Brazilian map for DayZ.</strong></p>
       <p>A recreation of the archipelago focused on geographic fidelity, tropical atmosphere and open-world performance.</p>
       <div>
@@ -96,6 +102,13 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
     </td>
   </tr>
 
+  <!-- Espaçador -->
+  <tr height="30">
+    <td></td>
+    <td></td>
+  </tr>
+
+  <!-- Azarya -->
   <tr>
     <td width="40%" align="center" valign="middle">
       <a href="https://github.com/AdriianCOE/Azarya">
@@ -103,7 +116,7 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
       </a>
     </td>
     <td width="60%" valign="middle">
-      <h3><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217">Azarya</a></h3>
+      <h2><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217">Azarya</a></h2>
       <p><strong>A total-conversion mod for Hearts of Iron IV.</strong></p>
       <p>An original universe with custom nations, political campaigns, characters, conflicts and gameplay systems.</p>
       <div>
