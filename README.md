@@ -130,10 +130,6 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
 </p>
 
 <div align="center">
-  <h3>Support my work</h3>
-  
-  <p>Supporting me helps fund hosting, development tools, assets and independent projects.</p>
-
   <a href="https://ko-fi.com/M5U123Y4S4">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Adrian Costa on Ko-fi" />
   </a>
