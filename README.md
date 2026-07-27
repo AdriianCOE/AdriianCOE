@@ -2,15 +2,8 @@
 
 <img src="banner.jpg" width="100%" alt="Adrian Costa — Developer and creator of PratoBy, Azarya and Noronha" />
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=38&duration=3000&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=650&height=58&lines=Adrian+Costa"
-alt="Adrian Costa"
-/>
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=16&duration=3000&delay=1500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=720&height=28&lines=Developer+%C2%B7+ADS+Student+%C2%B7+Worldbuilder"
-alt="Developer · ADS Student · Worldbuilder"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=38&duration=3000&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=650&height=45&lines=Adrian+Costa" alt="Adrian Costa" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=16&duration=3000&delay=1500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=720&height=28&lines=Developer+%C2%B7+ADS+Student+%C2%B7+Worldbuilder" alt="Developer · ADS Student · Worldbuilder" />
 
 <p>I build digital products, fictional worlds and game experiences.</p>
 
@@ -198,12 +191,15 @@ Supporting me helps fund hosting, development tools, assets and independent proj
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Adrian Costa on Ko-fi" />
 </a>
 
-<br/><br/>
+<p align="center" style="margin-top: 24px; margin-bottom: 0;">
+  <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
+</p>
 
-<i>“Live to fight another day, boys.”</i> — <b>Hardcase</b>
+<p align="center" style="margin-top: 4px; margin-bottom: 40px;">
+  <img src="trooper.png" width="20" alt="Trooper Icon" />
+</p>
 
-<br/><br/>
 
-<img src="trooper.png" width="22" alt="Trooper icon" />
-
-</div>
+<p align="center">
+  <img src="divider.svg" width="100%" alt="Divider" />
+</p>
