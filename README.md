@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://pratoby.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/PratoBy-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PratoBy" />
+    <img src="https://img.shields.io/badge/PratoBy-FF5722?style=for-the-badge&logoColor=white" alt="PratoBy" />
   </a>
 
   <a href="https://discordapp.com/users/adriiancoe" target="_blank" rel="noopener noreferrer">
