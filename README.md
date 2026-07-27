@@ -8,7 +8,7 @@
 
   <p>
     <a href="https://pratoby.com">
-      <img src="https://img.shields.io/badge/PratoBy-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="PratoBy" />
+      <img src="https://shields.io" alt="PratoBy" />
     </a>
     <a href="https://discordapp.com/users/adriiancoe">
       <img src="https://img.shields.io/badge/Discord-1F2428?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
