@@ -30,8 +30,6 @@ Stack.......: React · Vite · Tailwind · Firebase
 Focus.......: Product · Frontend · Backend · Security
 Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
 ```
-
-    </td>
   </tr>
 </table>
 
