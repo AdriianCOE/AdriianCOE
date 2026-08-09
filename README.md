@@ -6,7 +6,7 @@
   <div align="center">
   <p>I build digital products, fictional worlds and game experiences.</p>
 
-  <a href="https://pratoby.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PratoBy-FF5722?style=for-the-badge&logoColor=white" alt="PratoBy" /></a>&nbsp;<a href="https://discordapp.com/users/adriiancoe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-1F2428?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;<a href="https://instagram.com/AdriianCOE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-1F2428?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;<a href="mailto:tommycramos@gmail.com"><img src="https://img.shields.io/badge/Email-1F2428?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://ko-fi.com/M5U123Y4S4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ko--fi-1F2428?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+  <a href="https://pratoby.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PratoBy-FF5722?style=for-the-badge&logoColor=white" alt="PratoBy" /></a> <a href="https://discordapp.com/users/adriiancoe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-1F2428?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://instagram.com/AdriianCOE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-1F2428?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="mailto:tommycramos@gmail.com"><img src="https://img.shields.io/badge/Email-1F2428?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://ko-fi.com/M5U123Y4S4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ko--fi-1F2428?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=Profile+Views&color=1F2428&style=flat-square" alt="GitHub profile views" />
 </div>
@@ -31,10 +31,9 @@ Focus.......: Product · Frontend · Backend · Security
 Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
 ```
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
-
 
 ## Projects
 
@@ -55,6 +54,25 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
     </td>
   </tr>
 
+  <tr><td colspan="2"><br></td></tr> <!-- Espaçamento visual adicionado -->
+
+  <tr>
+    <td width="44%" align="center" valign="top">
+      <a href="https://github.com/AdriianCOE/HOI4-Map-Editor">
+        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=HOI4-Map-Editor&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" width="100%" alt="HOI4 Map Editor" />
+      </a>
+    </td>
+    <td width="56%" valign="top">
+      <strong><a href="https://github.com/AdriianCOE/HOI4-Map-Editor">HOI4 Map Editor</a></strong> — Open Source Tool for <em>Hearts of Iron IV</em><br><br>
+      A mapping utility designed to streamline the worldbuilding and map creation process for Hearts of Iron IV modders.<br><br>
+      <img src="https://img.shields.io/badge/Open%20Source-1F2428?style=flat-square" alt="Open Source" />
+      <img src="https://img.shields.io/badge/Modding%20Tool-1F2428?style=flat-square" alt="Modding Tool" />
+      <img src="https://img.shields.io/badge/Map%20Design-16A34A?style=flat-square" alt="Map Design" />
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br></td></tr> <!-- Espaçamento visual adicionado -->
+
   <tr>
     <td width="44%" align="center" valign="top">
       <a href="https://github.com/AdriianCOE/Noronha">
@@ -70,6 +88,8 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
       <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
     </td>
   </tr>
+
+  <tr><td colspan="2"><br></td></tr> <!-- Espaçamento visual adicionado -->
 
   <tr>
     <td width="44%" align="center" valign="top">
@@ -126,3 +146,5 @@ Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
 <p align="center">
   <img src="divider.svg" width="100%" alt="Divider" />
 </p>
+
+
