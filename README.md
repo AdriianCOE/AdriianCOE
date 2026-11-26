@@ -1,95 +1,181 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Monochrome banner combining military imagery and fictional worlds" />
-  <img src="portfolio/identity.svg" width="100%" alt="Adrian Costa — Software developer, independent product builder and Systems Analysis and Development student in Aracaju, Brazil" />
+  <img src="banner.jpg" width="100%" alt="Adrian Costa — software developer, product builder and worldbuilder" />
+</p>
+
+<h1 align="center">Adrian Costa</h1>
+
+<p align="center">
+  <strong>Software Developer · Independent Product Builder · ADS Student</strong>
 </p>
 
 <p align="center">
-  <a href="https://pratoby.com"><strong>PratoBy ↗</strong></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/adrian-costaramos/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:tommycramos@gmail.com">Email</a> &nbsp; / &nbsp;
+  Building web products, developer tools, and digital worlds.
+</p>
+
+<p align="center">
+  Aracaju, Sergipe · Brazil
+</p>
+
+<p align="center">
+  <a href="https://pratoby.com">PratoBy</a> ·
+  <a href="https://www.linkedin.com/in/adrian-costaramos/">LinkedIn</a> ·
+  <a href="mailto:tommycramos@gmail.com">Email</a> ·
   <a href="https://github.com/AdriianCOE?tab=repositories">Repositories</a>
 </p>
 
-<img align="right" src="avatar.png" width="80" alt="Adrian's illustrated avatar" />
+---
 
-I build web products, developer tools and digital worlds. My work spans full-stack development, automation and game systems, with an emphasis on solving practical problems and building things people can use.
+## About me
 
-My Brazilian Army background (28º BC) shapes my approach to discipline, responsibility and teamwork.
+I'm a Brazilian software developer and Systems Analysis & Development student interested in the intersection of software engineering, product development, automation, and game systems.
 
-<br clear="both" />
+I build products end to end — from interface to backend services, infrastructure, and tooling. I also create utilities for game development and modding communities, usually by turning real production problems into reusable solutions.
 
-## Featured product
+My background in the Brazilian Army (28º BC) shaped how I approach discipline, responsibility, and teamwork.
 
-<a href="https://pratoby.com">
-  <img src="portfolio/pratoby.svg" width="100%" alt="PratoBy — Independent digital menu and ordering SaaS. Digital menu to customer order to restaurant." />
-</a>
-
-**PratoBy** is an independent SaaS that helps restaurants run their own digital ordering channels without marketplace commissions.
-
-I work across the product, frontend, backend, payments, application security and infrastructure.
-
-`React` · `Vite` · `Tailwind CSS` · `Firebase` · `Cloudflare`
-
-[**Visit PratoBy ↗**](https://pratoby.com)
-
-## Selected work
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AdriianCOE/HOI4-Map-Editor"><img src="portfolio/map-editor.svg" width="100%" alt="Map editing — provinces and states" /></a>
-      <h3><a href="https://github.com/AdriianCOE/HOI4-Map-Editor">HOI4 Map Editor</a></h3>
-      <p>Visual province and state editor for Hearts of Iron IV, with project validation, backups and rollback.</p>
-      <p><code>Rust</code> · <code>Desktop tooling</code></p>
-      <p><a href="https://github.com/AdriianCOE/HOI4-Map-Editor">Source</a> · <a href="https://github.com/AdriianCOE/HOI4-Map-Editor/releases">Releases</a></p>
-      <sub>Extends <a href="https://github.com/ScottyThePilot/hoi4_province_editor">ScottyThePilot's province editor</a>.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AdriianCOE/NoronhaMapExporter"><img src="portfolio/map-export.svg" width="100%" alt="Map export — capture and image stitching" /></a>
-      <h3><a href="https://github.com/AdriianCOE/NoronhaMapExporter">NoronhaMapExporter</a></h3>
-      <p>Automates native DayZ map capture and image stitching. A documented export combines 60 captures into a <strong>9,600 × 9,600 px</strong> image.</p>
-      <p><code>Python</code> · <code>PowerShell</code> · <code>.NET</code></p>
-      <p><a href="https://github.com/AdriianCOE/NoronhaMapExporter">Source</a> · <a href="https://adriiancoe.github.io/NoronhaMapExporter/">Live map ↗</a></p>
-      <sub>MIT-licensed developer tool.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AdriianCOE/Noronha"><img src="portfolio/noronha.svg" width="100%" alt="Noronha — illustrative terrain contours" /></a>
-      <h3><a href="https://github.com/AdriianCOE/Noronha">Fernando de Noronha</a></h3>
-      <p>A Brazilian-inspired tropical survival world for DayZ, combining terrain design, game systems and open-world optimization on a <strong>10.24 × 10.24 km</strong> terrain.</p>
-      <p><code>DayZ Workbench</code> · <code>Enfusion Script</code> · <code>Blender</code></p>
-      <p><a href="https://github.com/AdriianCOE/Noronha">Repository</a> · <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894">Workshop ↗</a></p>
-      <sub>Work in progress.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/AdriianCOE/Azarya"><img src="portfolio/azarya.svg" width="100%" alt="Azarya — illustrative fictional political regions" /></a>
-      <h3><a href="https://github.com/AdriianCOE/Azarya">Empires of Azarya</a></h3>
-      <p>An original fictional universe built as a total conversion for Hearts of Iron IV, with nations, events, campaigns and custom game systems.</p>
-      <p><code>Paradox Script</code> · <code>GUI modding</code> · <code>Game design</code></p>
-      <p><a href="https://github.com/AdriianCOE/Azarya">Repository</a> · <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217">Workshop ↗</a></p>
-      <sub>Worldbuilding through game development.</sub>
-    </td>
-  </tr>
-</table>
-
-## Technical toolkit
-
-**Web & product** &nbsp; React · Vite · Tailwind CSS · Firebase · Cloudflare
-
-**Software & automation** &nbsp; Rust · Python · PowerShell · .NET
-
-**Game development** &nbsp; DayZ Workbench · Terrain Builder · Enfusion Script · Blender · Paradox Script
-
-**Engineering interests** &nbsp; Application security · data integrity · automation · product design
+**Current focus:** full-stack development, application security, automation, and product design.
 
 ---
 
+## Featured product
+
+### PratoBy  
+**Independent digital ordering SaaS for restaurants**
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/adrian-costaramos/">Let's connect on LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:tommycramos@gmail.com">Email me</a> &nbsp;·&nbsp;
-  <a href="https://ko-fi.com/M5U123Y4S4">Support my work</a>
+  <img src="portfolio/pratoby.svg" width="100%" alt="PratoBy — digital menu and ordering platform" />
 </p>
+
+PratoBy helps restaurants operate their own digital ordering channels without marketplace commissions.
+
+I work across the entire product: frontend, backend, payments, security, and infrastructure.
+
+**Stack:** `React` · `Vite` · `Tailwind CSS` · `Firebase` · `Cloudflare`
+
+**Links:** [Website](https://pratoby.com)
+
+---
+
+## Selected work
+
+### HOI4 Map Editor  
+**Visual province and state editor for Hearts of Iron IV**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdriianCOE/HOI4-Map-Editor/main/images/hoi4me_color.png" width="100%" alt="HOI4 Map Editor screenshot" />
+</p>
+
+A desktop tool for Hearts of Iron IV mod development, focused on province and state editing with validation, safer save workflows, backups, rollback, and recovery.
+
+**Highlights**
+- Province and state editing
+- Validation and compatibility diagnostics
+- Safer save flow with backups and rollback
+- Built as an extension of an existing open-source editor
+
+**Stack:** `Rust` · `Desktop tooling`
+
+**Links:** [Repository](https://github.com/AdriianCOE/HOI4-Map-Editor) · [Releases](https://github.com/AdriianCOE/HOI4-Map-Editor/releases)
+
+<sub>Extends <a href="https://github.com/ScottyThePilot/hoi4_province_editor">ScottyThePilot's province editor</a>.</sub>
+
+---
+
+### NoronhaMapExporter  
+**Native DayZ map export and image-processing pipeline**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdriianCOE/NoronhaMapExporter/main/images/examples/noronha-master.jpg" width="100%" alt="NoronhaMapExporter exported map example" />
+</p>
+
+A tool built to automate native DayZ map capture and lossless image stitching for compatible worlds.
+
+One documented result combines **60 native captures** into a **9,600 × 9,600 px** map export.
+
+**Highlights**
+- Automates map capture
+- Lossless stitched output
+- Supports custom and vanilla-compatible terrains
+- Built from a real production need
+
+**Stack:** `Python` · `PowerShell` · `.NET`
+
+**Links:** [Repository](https://github.com/AdriianCOE/NoronhaMapExporter) · [Releases](https://github.com/AdriianCOE/NoronhaMapExporter/releases) · [Interactive Map](https://adriiancoe.github.io/NoronhaMapExporter/)
+
+---
+
+### Fernando de Noronha  
+**Brazilian-inspired tropical survival terrain for DayZ**
+
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/16706076935950692857/AB074CF857EDDDD21454844CC70E80C6E2197F8B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" alt="Fernando de Noronha DayZ map" />
+</p>
+
+A custom DayZ world inspired by the Fernando de Noronha archipelago, designed as a survival map first and a geographic homage second.
+
+The project combines terrain design, Brazilian identity, worldbuilding, atmosphere, configuration, and open-world gameplay considerations on a **10.24 × 10.24 km** terrain.
+
+**Highlights**
+- Tropical survival setting
+- Brazilian-inspired world identity
+- Terrain, gameplay systems, and environmental design
+- Long-term in-development project
+
+**Stack:** `DayZ Workbench` · `Terrain Builder` · `Enfusion Script` · `Blender`
+
+**Links:** [Repository](https://github.com/AdriianCOE/Noronha) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
+
+<sub>Work in progress.</sub>
+
+---
+
+### Empires of Azarya  
+**Original fictional universe built as a Hearts of Iron IV total conversion**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdriianCOE/Azarya/Main1/thumbnail.png" width="100%" alt="Empires of Azarya thumbnail" />
+</p>
+
+A long-form worldbuilding and game design project built around nations, conflicts, narrative events, campaigns, interface work, and custom game systems.
+
+**Highlights**
+- Original fictional setting
+- Total conversion design
+- Narrative systems and campaigns
+- Worldbuilding through game development
+
+**Stack:** `Paradox Script` · `GUI Modding` · `Game Design`
+
+**Links:** [Repository](https://github.com/AdriianCOE/Azarya) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217)
+
+---
+
+## What I work with
+
+**Web & product**  
+`React` · `Vite` · `Tailwind CSS` · `Firebase` · `Cloudflare`
+
+**Software & automation**  
+`Rust` · `Python` · `PowerShell` · `.NET`
+
+**Game development & worldbuilding**  
+`DayZ Workbench` · `Terrain Builder` · `Enfusion Script` · `Blender` · `Paradox Script`
+
+**Engineering interests**  
+Application security · data integrity · automation · product design
+
+---
+
+## Contact
+
+If you're interested in software development, product building, automation, or game tooling, feel free to reach out.
+
+- [LinkedIn](https://www.linkedin.com/in/adrian-costaramos/)
+- [Email](mailto:tommycramos@gmail.com)
+- [PratoBy](https://pratoby.com)
+- [Ko-fi](https://ko-fi.com/M5U123Y4S4)
+
+---
 
 <p align="center">
   <img src="trooper.png" width="22" alt="Trooper icon" /><br />
