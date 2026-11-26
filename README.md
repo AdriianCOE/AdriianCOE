@@ -129,27 +129,6 @@ The project combines terrain design, Brazilian identity, worldbuilding, atmosphe
 
 ---
 
-### Empires of Azarya  
-**Original fictional universe built as a Hearts of Iron IV total conversion**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdriianCOE/Azarya/Main1/thumbnail.png" width="100%" alt="Empires of Azarya thumbnail" />
-</p>
-
-A long-form worldbuilding and game design project built around nations, conflicts, narrative events, campaigns, interface work, and custom game systems.
-
-**Highlights**
-- Original fictional setting
-- Total conversion design
-- Narrative systems and campaigns
-- Worldbuilding through game development
-
-**Stack:** `Paradox Script` · `GUI Modding` · `Game Design`
-
-**Links:** [Repository](https://github.com/AdriianCOE/Azarya) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217)
-
----
-
 ## What I work with
 
 **Web & product**  
