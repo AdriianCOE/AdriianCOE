@@ -1,148 +1,111 @@
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Adrian Costa — Developer and creator of PratoBy, Azarya and Noronha" />
+  <img src="banner.jpg" width="100%" alt="Adrian Costa — Software Developer and Product Builder" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=38&duration=3000&pause=1000&color=F0F6FC&center=true&vCenter=true&repeat=false&width=650&height=45&lines=Adrian+Costa" alt="Adrian Costa" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=16&duration=3000&delay=1500&pause=1000&color=8B949E&center=true&vCenter=true&repeat=false&width=720&height=28&lines=Developer+%C2%B7+ADS+Student+%C2%B7+Worldbuilder" alt="Developer · ADS Student · Worldbuilder" />
-  <div align="center">
-  <p>I like to build fictional worlds and game experiences.</p>
+  <h1>Adrian Costa</h1>
+  <p><strong>Software Developer · Independent Product Builder · ADS Student</strong></p>
+  <p>Building web products, developer tools, and digital worlds.</p>
+  <p>Aracaju, Sergipe · Brazil</p>
 
-  <a href="https://pratoby.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/PratoBy-FF5722?style=for-the-badge&logoColor=white" alt="PratoBy" /></a> <a href="https://discordapp.com/users/adriiancoe" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-1F2428?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://instagram.com/AdriianCOE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-1F2428?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="mailto:tommycramos@gmail.com"><img src="https://img.shields.io/badge/Email-1F2428?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://ko-fi.com/M5U123Y4S4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Ko--fi-1F2428?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
+  <a href="https://pratoby.com"><img src="https://img.shields.io/badge/PratoBy-FF5722?style=flat-square&amp;logoColor=white" alt="PratoBy" /></a>
+  <a href="https://www.linkedin.com/in/adrian-costaramos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tommycramos@gmail.com"><img src="https://img.shields.io/badge/Email-1F2428?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/AdriianCOE?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1F2428?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Repositories" /></a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=AdriianCOE&label=Profile+Views&color=1F2428&style=flat-square" alt="GitHub profile views" />
-</div>
-<h2 align="center">About me</h2>
 
-<table align="center">
+## About me
+
+<img align="right" src="avatar.png" width="120" alt="Adrian Costa's avatar" />
+
+I'm a Brazilian software developer and Systems Analysis and Development student interested in the intersection of software engineering, product development, and game tooling.
+
+I build products end to end, from the interface to backend services and infrastructure. I also develop tools for game modding communities, turning problems I encounter in my own projects into solutions others can use.
+
+My background in the Brazilian Army (28º BC) informs how I approach responsibility, discipline, and teamwork.
+
+**Current focus:** full-stack development, application security, reliable tooling, and digital product design.
+
+<br clear="both" />
+
+## Featured product
+
+<table>
   <tr>
-    <td align="center" valign="middle">
-      <img src="avatar.png" width="160" alt="Adrian Costa avatar" />
+    <td width="40%" valign="middle" align="center">
+      <a href="https://pratoby.com"><img src="pratoby-card.svg" width="100%" alt="PratoBy — Digital Menu and Ordering Platform" /></a>
     </td>
-    <td valign="middle">
-
-```txt
-─── adriancosta.dev ───────────────────────────────────
-Name........: Adrian Costa · @AdriianCOE
-Location....: Aracaju, Sergipe · Brazil
-Role........: Indie Developer · Product Builder
-Education...: Systems Analysis & Development Student
-Background..: Former Brazilian Army soldier · 28º BC
-Stack.......: React · Vite · Tailwind · Firebase
-Focus.......: Product · Frontend · Backend · Security
-Side quests.: DayZ · Hearts of Iron IV · Worldbuilding
-```
+    <td valign="top">
+      <h3>PratoBy</h3>
+      <p><strong>Independent digital ordering SaaS for restaurants</strong></p>
+      <p>Built to help restaurants operate their own digital ordering channels without marketplace commissions.</p>
+      <p><strong>My role:</strong> end-to-end product development across the frontend, backend, payment integration, security, and infrastructure.</p>
+      <p><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Firebase</code> <code>Cloudflare</code></p>
+      <a href="https://pratoby.com"><strong>Visit PratoBy ↗</strong></a>
+    </td>
   </tr>
 </table>
 
-## Projects
+## Selected projects
 
-<table width="100%">
-  <tr>
-    <td width="44%" align="center" valign="top">
-      <a href="https://pratoby.com" target="_blank">
-        <img src="pratoby-card.svg" width="100%" alt="PratoBy" />
-      </a>
-    </td>
-    <td width="56%" valign="top">
-      <strong><a href="https://pratoby.com" target="_blank" rel="noopener noreferrer">PratoBy</a></strong> — Digital Menu & Ordering SaaS<br><br>
-      Lets restaurants sell without marketplace commissions. Full ownership of product, frontend, backend, payments, security, and infrastructure.<br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-    </td>
-  </tr>
+### Developer tools
 
-  <tr><td colspan="2"><br></td></tr> <!-- Espaçamento visual adicionado -->
+**[HOI4 Map Editor](https://github.com/AdriianCOE/HOI4-Map-Editor)** — Desktop tooling for Hearts of Iron IV mod developers
 
-  <tr>
-    <td width="44%" align="center" valign="top">
-      <a href="https://github.com/AdriianCOE/HOI4-Map-Editor">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=HOI4-Map-Editor&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" width="100%" alt="HOI4 Map Editor" />
-      </a>
-    </td>
-    <td width="56%" valign="top">
-      <strong><a href="https://github.com/AdriianCOE/HOI4-Map-Editor">HOI4 Map Editor</a></strong> — Open Source Tool for <em>Hearts of Iron IV</em><br><br>
-      A mapping utility designed to streamline the worldbuilding and map creation process for Hearts of Iron IV modders.<br><br>
-      <img src="https://img.shields.io/badge/Open%20Source-1F2428?style=flat-square" alt="Open Source" />
-      <img src="https://img.shields.io/badge/Modding%20Tool-1F2428?style=flat-square" alt="Modding Tool" />
-      <img src="https://img.shields.io/badge/Map%20Design-16A34A?style=flat-square" alt="Map Design" />
-    </td>
-  </tr>
+An extension of [ScottyThePilot's province editor](https://github.com/ScottyThePilot/hoi4_province_editor), with visual state editing, multiple map views, validation, and a coordinated save workflow designed to recover from failures through backups and rollback.
 
-  <tr><td colspan="2"><br></td></tr> <!-- Espaçamento visual adicionado -->
+`Rust` · `Desktop applications` · `Data validation` · `File integrity`
 
-  <tr>
-    <td width="44%" align="center" valign="top">
-      <a href="https://github.com/AdriianCOE/Noronha">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=Noronha&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" width="100%" alt="Noronha" />
-      </a>
-    </td>
-    <td width="56%" valign="top">
-      <strong><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894">Fernando de Noronha</a></strong> — 1:1 scale map for <em>DayZ</em><br><br>
-      Geographic fidelity, tropical atmosphere and open-world optimization. Built as the first fully Brazilian map for the game.<br><br>
-      <img src="https://img.shields.io/badge/DayZ%20Workbench-1F2428?style=flat-square" alt="DayZ Workbench" />
-      <img src="https://img.shields.io/badge/Terrain%20Builder-1F2428?style=flat-square" alt="Terrain Builder" />
-      <img src="https://img.shields.io/badge/Enfusion%20Script-1F2428?style=flat-square" alt="Enfusion Script" />
-      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
-    </td>
-  </tr>
+[Source code](https://github.com/AdriianCOE/HOI4-Map-Editor) · [Releases](https://github.com/AdriianCOE/HOI4-Map-Editor/releases)
 
-  <tr><td colspan="2"><br></td></tr> <!-- Espaçamento visual adicionado -->
+**[NoronhaMapExporter](https://github.com/AdriianCOE/NoronhaMapExporter)** — Native map export and image-processing pipeline for DayZ
 
-  <tr>
-    <td width="44%" align="center" valign="top">
-      <a href="https://github.com/AdriianCOE/Azarya">
-        <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=AdriianCOE&repo=Azarya&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E" width="100%" alt="Azarya" />
-      </a>
-    </td>
-    <td width="56%" valign="top">
-      <strong><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217">Azarya</a></strong> — total conversion for <em>Hearts of Iron IV</em><br><br>
-      An original universe with dozens of countries, campaigns, events and custom systems written from scratch.<br><br>
-      <img src="https://img.shields.io/badge/Paradox%20Script-1F2428?style=flat-square" alt="Paradox Script" />
-      <img src="https://img.shields.io/badge/GUI%20Modding-1F2428?style=flat-square" alt="GUI Modding" />
-      <img src="https://img.shields.io/badge/Game%20Design-1F2428?style=flat-square" alt="Game Design" />
-      <img src="https://img.shields.io/badge/Worldbuilding-16A34A?style=flat-square" alt="Worldbuilding" />
-    </td>
-  </tr>
-</table>
+An MIT-licensed tool that automates map capture and image stitching for compatible vanilla and custom terrains. One documented output is a **9,600 × 9,600 px** map assembled from **60 native captures**.
+
+`Python` · `PowerShell` · `.NET` · `Image processing` · `Automation`
+
+[Source code](https://github.com/AdriianCOE/NoronhaMapExporter) · [Releases](https://github.com/AdriianCOE/NoronhaMapExporter/releases) · [Interactive map ↗](https://adriiancoe.github.io/NoronhaMapExporter/)
+
+### Game development & worldbuilding
+
+**[Fernando de Noronha](https://github.com/AdriianCOE/Noronha)** — Brazilian survival terrain for DayZ
+
+A tropical game world inspired by the Fernando de Noronha archipelago, built on a 10.24 × 10.24 km terrain. The project combines geographic references, terrain design, game-system configuration, and open-world optimization. Currently in development.
+
+`DayZ Workbench` · `Terrain Builder` · `Enfusion Script` · `Blender`
+
+[Repository](https://github.com/AdriianCOE/Noronha) · [Steam Workshop ↗](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
+
+**[Empires of Azarya](https://github.com/AdriianCOE/Azarya)** — Total conversion mod for Hearts of Iron IV
+
+An original fictional universe expressed through nations, conflicts, narrative events, campaigns, and custom game systems. A long-form project combining systems design, scripting, interface customization, and worldbuilding.
+
+`Paradox Script` · `GUI Modding` · `Game Design` · `Worldbuilding`
+
+[Repository](https://github.com/AdriianCOE/Azarya) · [Steam Workshop ↗](https://steamcommunity.com/sharedfiles/filedetails/?id=3505750217)
+
+## Technical toolkit
+
+| Area | Technologies & tools |
+| :--- | :--- |
+| Web development | `React` · `Vite` · `Tailwind CSS` |
+| Backend & infrastructure | `Firebase` · `Cloudflare` |
+| Software & automation | `Rust` · `Python` · `PowerShell` · `.NET` |
+| Game tooling & 3D | `DayZ Workbench` · `Terrain Builder` · `Blender` · `Enfusion Script` · `Paradox Script` |
+| Engineering interests | Application security · data integrity · automation · product design |
+
+## GitHub activity
 
 <p align="center">
-  <img src="divider.svg" width="100%" alt="Divider" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&amp;bg_color=0D1117&amp;color=8B949E&amp;line=F0F6FC&amp;point=16A34A&amp;area=true&amp;hide_border=true&amp;hide_title=true" width="100%" alt="Adrian Costa's GitHub contribution activity" />
 </p>
 
-<h2 align="center">GitHub activity</h2>
+## Get in touch
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=AdriianCOE&show_icons=true&hide_border=true&bg_color=0D1117&title_color=16A34A&icon_color=16A34A&text_color=8B949E&count_private=true" height="165" alt="Adrian Costa's GitHub statistics" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdriianCOE&layout=compact&hide_border=true&bg_color=0D1117&title_color=16A34A&text_color=8B949E&langs_count=6" height="165" alt="Adrian Costa's most used languages" />
-    </td>
-  </tr>
-</table>
+Interested in software development, independent products, or game tooling? Feel free to reach out.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&bg_color=0D1117&color=8B949E&line=F0F6FC&point=16A34A&area=true&hide_border=true&hide_title=true" width="100%" alt="Adrian Costa's GitHub activity graph" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/adrian-costaramos/) · [Email](mailto:tommycramos@gmail.com) · [PratoBy](https://pratoby.com) · [Support my projects on Ko-fi](https://ko-fi.com/M5U123Y4S4)
 
 <div align="center">
-  <a href="https://ko-fi.com/M5U123Y4S4">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Adrian Costa on Ko-fi" />
-  </a>
-
-  <br><br>
-
-  <p>
-    <i>"Live to fight another day, boys."</i> — <b>Hardcase</b>
-  </p>
-
-  <img src="trooper.png" width="20" alt="Trooper Icon" />
+  <img src="divider.svg" width="100%" alt="" />
+  <p><em>“Live to fight another day, boys.”</em> — <strong>Hardcase</strong></p>
+  <img src="trooper.png" width="20" alt="Trooper icon" />
 </div>
-
-<p align="center">
-  <img src="divider.svg" width="100%" alt="Divider" />
-</p>
-
-
