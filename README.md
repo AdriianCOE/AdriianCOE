@@ -17,7 +17,7 @@
 
 <p><img src="terminal/01-about.svg" width="100%" alt="01 — About me" /></p>
 
-<img align="right" src="terminal/ascii-art.png" width="205" alt="Monochrome ASCII character illustration" />
+<img align="right" src="terminal/ascii-art.svg" width="205" alt="Monochrome ASCII character illustration" />
 
 I'm a Brazilian software developer and ADS student building independent web products, developer tools and immersive digital worlds. I turn practical problems into reusable software, from interfaces to infrastructure.
 
