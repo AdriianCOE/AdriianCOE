@@ -48,7 +48,7 @@ My background in the Brazilian Army (28º BC) shapes my approach to discipline, 
     <td width="50%" valign="top">
       <p><code>002 / DESKTOP SOFTWARE</code></p>
       <h3><a href="https://github.com/AdriianCOE/HOI4-Map-Editor">HOI4 Map Editor</a></h3>
-      <p align="center"><a href="https://github.com/AdriianCOE/HOI4-Map-Editor"><img src="https://raw.githubusercontent.com/AdriianCOE/HOI4-Map-Editor/main/images/hoi4me_color.png" height="126" alt="HOI4 Map Editor in use" /></a></p>
+      <p align="center"><a href="https://github.com/AdriianCOE/HOI4-Map-Editor"><img src="terminal/project-002-preview.svg" width="100%" alt="HOI4 Map Editor in use" /></a></p>
       <p>Visual province and state editing for Hearts of Iron IV, with project validation, backups and rollback.</p>
       <p><code>Rust</code> · <code>Desktop tooling</code></p>
       <p><a href="https://github.com/AdriianCOE/HOI4-Map-Editor">Source</a> · <a href="https://github.com/AdriianCOE/HOI4-Map-Editor/releases">Releases</a></p>
@@ -57,7 +57,7 @@ My background in the Brazilian Army (28º BC) shapes my approach to discipline, 
     <td width="50%" valign="top">
       <p><code>003 / AUTOMATION</code></p>
       <h3><a href="https://github.com/AdriianCOE/NoronhaMapExporter">NoronhaMapExporter</a></h3>
-      <p align="center"><a href="https://adriiancoe.github.io/NoronhaMapExporter/"><img src="https://raw.githubusercontent.com/AdriianCOE/NoronhaMapExporter/main/images/examples/noronha-master.jpg" height="126" alt="Map exported with NoronhaMapExporter" /></a></p>
+      <p align="center"><a href="https://adriiancoe.github.io/NoronhaMapExporter/"><img src="terminal/project-003-preview.svg" width="100%" alt="Map exported with NoronhaMapExporter" /></a></p>
       <p>Native DayZ map capture and stitching. A documented export combines <strong>60 captures</strong> into a <strong>9,600 × 9,600 px</strong> image.</p>
       <p><code>Python</code> · <code>PowerShell</code> · <code>.NET</code></p>
       <p><a href="https://github.com/AdriianCOE/NoronhaMapExporter">Source</a> · <a href="https://github.com/AdriianCOE/NoronhaMapExporter/releases">Releases</a> · <a href="https://adriiancoe.github.io/NoronhaMapExporter/">Live map ↗</a></p>
@@ -79,30 +79,8 @@ My background in the Brazilian Army (28º BC) shapes my approach to discipline, 
 
 <p><img src="terminal/03-toolkit.svg" width="100%" alt="03 — Technologies" /></p>
 
-**Web &amp; product**
-<p>
-  <img src="https://img.shields.io/badge/React-202124?style=flat-square&amp;logo=react&amp;logoColor=F0F0F0" height="24" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-202124?style=flat-square&amp;logo=vite&amp;logoColor=F0F0F0" height="24" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-202124?style=flat-square&amp;logo=tailwindcss&amp;logoColor=F0F0F0" height="24" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Firebase-202124?style=flat-square&amp;logo=firebase&amp;logoColor=F0F0F0" height="24" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Cloudflare-202124?style=flat-square&amp;logo=cloudflare&amp;logoColor=F0F0F0" height="24" alt="Cloudflare" />
-</p>
-
-**Software &amp; automation**
-<p>
-  <img src="https://img.shields.io/badge/Rust-202124?style=flat-square&amp;logo=rust&amp;logoColor=F0F0F0" height="24" alt="Rust" />
-  <img src="https://img.shields.io/badge/Python-202124?style=flat-square&amp;logo=python&amp;logoColor=F0F0F0" height="24" alt="Python" />
-  <img src="https://img.shields.io/badge/PowerShell-202124?style=flat-square" height="24" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/.NET-202124?style=flat-square&amp;logo=dotnet&amp;logoColor=F0F0F0" height="24" alt=".NET" />
-</p>
-
-**Game development**
-<p>
-  <img src="https://img.shields.io/badge/Blender-202124?style=flat-square&amp;logo=blender&amp;logoColor=F0F0F0" height="24" alt="Blender" />
-  <img src="https://img.shields.io/badge/DayZ%20Workbench-202124?style=flat-square" height="24" alt="DayZ Workbench" />
-  <img src="https://img.shields.io/badge/Terrain%20Builder-202124?style=flat-square" height="24" alt="Terrain Builder" />
-  <img src="https://img.shields.io/badge/Enfusion%20Script-202124?style=flat-square" height="24" alt="Enfusion Script" />
-  <img src="https://img.shields.io/badge/Paradox%20Script-202124?style=flat-square" height="24" alt="Paradox Script" />
+<p align="center">
+  <img src="terminal/toolkit-grid.svg" width="100%" alt="Web: React, Vite, Tailwind CSS, Firebase, Cloudflare. Software: Rust, Python, PowerShell, .NET. Games: Blender, DayZ Workbench, Terrain Builder, Enfusion Script, Paradox Script." />
 </p>
 
 <p><img src="terminal/04-stats.svg" width="100%" alt="04 — GitHub statistics" /></p>
