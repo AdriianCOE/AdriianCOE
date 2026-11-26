@@ -39,7 +39,7 @@ My background in the Brazilian Army (28º BC) shapes my approach to discipline, 
 
 `React` · `Vite` · `Tailwind CSS` · `Firebase` · `Cloudflare`
 
-[**Explore PratoBy**](https://pratoby.com)
+<a href="https://pratoby.com"><img src="terminal/project-pratoby-visit.svg" height="28" alt="Explore PratoBy" /></a>
 
 ---
 
@@ -64,8 +64,7 @@ My background in the Brazilian Army (28º BC) shapes my approach to discipline, 
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <p><a href="https://github.com/AdriianCOE/Noronha"><img src="terminal/project-004-title.svg" width="100%" alt="004 / Fernando de Noronha — WORLD BUILDING" /></a></p>
-      <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894"><img align="right" src="https://images.steamusercontent.com/ugc/16706076935950692857/AB074CF857EDDDD21454844CC70E80C6E2197F8B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="155" alt="Fernando de Noronha custom DayZ terrain" /></a>
+      <p><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894"><img src="terminal/noronha-cover.svg" width="100%" alt="004 / Fernando de Noronha — illustrative monochrome DayZ terrain cover" /></a></p>
       <p>Brazilian-inspired tropical survival world for DayZ on a <strong>10.24 × 10.24 km</strong> terrain, combining environment design, game systems and worldbuilding.</p>
       <p><code>DayZ Workbench</code> · <code>Enfusion Script</code> · <code>Blender</code></p>
       <p><a href="https://github.com/AdriianCOE/Noronha"><img src="terminal/project-repository.svg" height="28" alt="REPOSITORY" /></a> <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894"><img src="terminal/project-workshop.svg" height="28" alt="WORKSHOP" /></a></p>
