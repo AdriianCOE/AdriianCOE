@@ -17,7 +17,7 @@
 
 <p><img src="terminal/01-about.svg" width="100%" alt="01 — About me" /></p>
 
-<img align="right" src="terminal/ascii-art.svg" width="205" alt="Monochrome ASCII character illustration" />
+<img align="right" src="terminal/braille-art.svg" width="260" alt="Monochrome Unicode Braille portrait" />
 
 I'm a Brazilian software developer and ADS student building independent web products, developer tools and immersive digital worlds. I turn practical problems into reusable software, from interfaces to infrastructure.
 
@@ -107,19 +107,19 @@ My background in the Brazilian Army (28º BC) shapes my approach to discipline, 
 
 <p><img src="terminal/04-stats.svg" width="100%" alt="04 — GitHub statistics" /></p>
 
-<p align="center">
-  <a href="https://github.com/AdriianCOE">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=AdriianCOE&amp;show_icons=true&amp;include_all_commits=true&amp;hide_rank=true&amp;bg_color=080A0C&amp;title_color=F0F1F0&amp;text_color=ACB0B3&amp;icon_color=F0F1F0&amp;border_color=34393D&amp;custom_title=GitHub%20Stats" width="53%" alt="GitHub statistics: stars, commits, pull requests and issues" />
-  </a>
-  <a href="https://github.com/AdriianCOE?tab=repositories">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdriianCOE&amp;layout=compact&amp;langs_count=6&amp;bg_color=080A0C&amp;title_color=F0F1F0&amp;text_color=ACB0B3&amp;border_color=34393D&amp;custom_title=Top%20Languages" width="43%" alt="Most used languages in public repositories" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=AdriianCOE&amp;show_icons=true&amp;hide_border=true&amp;bg_color=080A0C&amp;title_color=F0F1F0&amp;icon_color=F0F1F0&amp;text_color=ACB0B3&amp;count_private=true" height="165" alt="Adrian Costa's GitHub statistics" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AdriianCOE&amp;layout=compact&amp;hide_border=true&amp;bg_color=080A0C&amp;title_color=F0F1F0&amp;text_color=ACB0B3&amp;langs_count=6" height="165" alt="Adrian Costa's most used languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/AdriianCOE">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&amp;bg_color=080A0C&amp;color=ACB0B3&amp;line=F0F1F0&amp;point=F0F1F0&amp;area=true&amp;hide_title=true&amp;border_color=34393D" width="100%" alt="GitHub contribution activity" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdriianCOE&amp;bg_color=080A0C&amp;color=ACB0B3&amp;line=F0F1F0&amp;point=F0F1F0&amp;area=true&amp;hide_border=true&amp;hide_title=true" width="100%" alt="Adrian Costa's GitHub activity graph" />
 </p>
 
 <p align="center"><code>END_OF_TRANSMISSION_</code></p>
