@@ -1,161 +1,128 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Adrian Costa — software developer, product builder and worldbuilder" />
+  <img src="banner.jpg" width="100%" alt="Monochrome artwork combining military imagery and fictional worlds" />
 </p>
 
 <h1 align="center">Adrian Costa</h1>
-
 <p align="center">
-  <strong>Software Developer · Independent Product Builder · ADS Student</strong>
+  <strong>Software Developer &amp; Independent Product Builder</strong><br />
+  From software to digital worlds.<br />
+  <sub>Aracaju, Brazil · Systems Analysis &amp; Development student</sub>
 </p>
 
 <p align="center">
-  Building web products, developer tools, and digital worlds.
+  <a href="https://www.linkedin.com/in/adrian-costaramos/"><img src="portfolio/contact-linkedin.svg" height="32" alt="LinkedIn" /></a>
+  <a href="mailto:tommycramos@gmail.com"><img src="portfolio/contact-email.svg" height="32" alt="Email" /></a>
+  <a href="https://pratoby.com"><img src="portfolio/contact-pratoby.svg" height="32" alt="PratoBy" /></a>
+  <a href="https://github.com/AdriianCOE?tab=repositories"><img src="portfolio/contact-repos.svg" height="32" alt="Repositories" /></a>
 </p>
 
-<p align="center">
-  Aracaju, Sergipe · Brazil
-</p>
+## 01 / About
 
-<p align="center">
-  <a href="https://pratoby.com">PratoBy</a> ·
-  <a href="https://www.linkedin.com/in/adrian-costaramos/">LinkedIn</a> ·
-  <a href="mailto:tommycramos@gmail.com">Email</a> ·
-  <a href="https://github.com/AdriianCOE?tab=repositories">Repositories</a>
-</p>
+I'm a Brazilian developer and ADS student building independent web products, developer tools and immersive digital worlds. I enjoy turning practical problems into reliable, reusable software, from interfaces to infrastructure.
 
----
+My background in the Brazilian Army (28º BC) shapes how I approach discipline, responsibility and teamwork. My focus is full-stack development, automation, application security and product design.
 
-## About me
+## 02 / Featured product
 
-I'm a Brazilian software developer and Systems Analysis & Development student interested in the intersection of software engineering, product development, automation, and game systems.
+<a href="https://pratoby.com">
+  <img src="portfolio/pratoby.svg" width="100%" alt="PratoBy — digital menu and ordering platform. Illustrative flow from menu to order to restaurant." />
+</a>
 
-I build products end to end — from interface to backend services, infrastructure, and tooling. I also create utilities for game development and modding communities, usually by turning real production problems into reusable solutions.
+**PratoBy** is an independent SaaS that helps restaurants run their own digital ordering channels without marketplace commissions. I build across the entire product: frontend, backend, payments, security and infrastructure.
 
-My background in the Brazilian Army (28º BC) shaped how I approach discipline, responsibility, and teamwork.
+`React` · `Vite` · `Tailwind CSS` · `Firebase` · `Cloudflare`
 
-**Current focus:** full-stack development, application security, automation, and product design.
+[**Explore PratoBy ↗**](https://pratoby.com)
 
----
+## 03 / Selected work
 
-## Featured product
+### [HOI4 Map Editor](https://github.com/AdriianCOE/HOI4-Map-Editor)
 
-### PratoBy  
-**Independent digital ordering SaaS for restaurants**
+<a href="https://github.com/AdriianCOE/HOI4-Map-Editor">
+  <img align="right" src="https://raw.githubusercontent.com/AdriianCOE/HOI4-Map-Editor/main/images/hoi4me_color.png" width="225" alt="Actual screenshot of the HOI4 Map Editor" />
+</a>
 
-<p align="center">
-  <img src="portfolio/pratoby.svg" width="100%" alt="PratoBy — digital menu and ordering platform" />
-</p>
+**Desktop software &amp; data integrity**
 
-PratoBy helps restaurants operate their own digital ordering channels without marketplace commissions.
+Visual province and state editing for Hearts of Iron IV, with project validation, backups and rollback.
 
-I work across the entire product: frontend, backend, payments, security, and infrastructure.
+`Rust` · `Desktop tooling`
 
-**Stack:** `React` · `Vite` · `Tailwind CSS` · `Firebase` · `Cloudflare`
-
-**Links:** [Website](https://pratoby.com)
-
----
-
-## Selected work
-
-### HOI4 Map Editor  
-**Visual province and state editor for Hearts of Iron IV**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdriianCOE/HOI4-Map-Editor/main/images/hoi4me_color.png" width="100%" alt="HOI4 Map Editor screenshot" />
-</p>
-
-A desktop tool for Hearts of Iron IV mod development, focused on province and state editing with validation, safer save workflows, backups, rollback, and recovery.
-
-**Highlights**
-- Province and state editing
-- Validation and compatibility diagnostics
-- Safer save flow with backups and rollback
-- Built as an extension of an existing open-source editor
-
-**Stack:** `Rust` · `Desktop tooling`
-
-**Links:** [Repository](https://github.com/AdriianCOE/HOI4-Map-Editor) · [Releases](https://github.com/AdriianCOE/HOI4-Map-Editor/releases)
+[Source](https://github.com/AdriianCOE/HOI4-Map-Editor) · [Releases](https://github.com/AdriianCOE/HOI4-Map-Editor/releases)
 
 <sub>Extends <a href="https://github.com/ScottyThePilot/hoi4_province_editor">ScottyThePilot's province editor</a>.</sub>
 
----
+<br clear="both" />
 
-### NoronhaMapExporter  
-**Native DayZ map export and image-processing pipeline**
+### [NoronhaMapExporter](https://github.com/AdriianCOE/NoronhaMapExporter)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdriianCOE/NoronhaMapExporter/main/images/examples/noronha-master.jpg" width="100%" alt="NoronhaMapExporter exported map example" />
-</p>
+<a href="https://adriiancoe.github.io/NoronhaMapExporter/">
+  <img align="right" src="https://raw.githubusercontent.com/AdriianCOE/NoronhaMapExporter/main/images/examples/noronha-master.jpg" width="225" alt="Exported Fernando de Noronha map" />
+</a>
 
-A tool built to automate native DayZ map capture and lossless image stitching for compatible worlds.
+**Automation &amp; image processing**
 
-One documented result combines **60 native captures** into a **9,600 × 9,600 px** map export.
+Native DayZ map capture and stitching pipeline. A documented export combines 60 captures into a **9,600 × 9,600 px** image.
 
-**Highlights**
-- Automates map capture
-- Lossless stitched output
-- Supports custom and vanilla-compatible terrains
-- Built from a real production need
+`Python` · `PowerShell` · `.NET`
 
-**Stack:** `Python` · `PowerShell` · `.NET`
+[Source](https://github.com/AdriianCOE/NoronhaMapExporter) · [Releases](https://github.com/AdriianCOE/NoronhaMapExporter/releases) · [Live map ↗](https://adriiancoe.github.io/NoronhaMapExporter/)
 
-**Links:** [Repository](https://github.com/AdriianCOE/NoronhaMapExporter) · [Releases](https://github.com/AdriianCOE/NoronhaMapExporter/releases) · [Interactive Map](https://adriiancoe.github.io/NoronhaMapExporter/)
+<br clear="both" />
 
----
+### [Fernando de Noronha](https://github.com/AdriianCOE/Noronha)
 
-### Fernando de Noronha  
-**Brazilian-inspired tropical survival terrain for DayZ**
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894">
+  <img align="right" src="https://images.steamusercontent.com/ugc/16706076935950692857/AB074CF857EDDDD21454844CC70E80C6E2197F8B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="225" alt="Fernando de Noronha custom DayZ terrain" />
+</a>
 
-<p align="center">
-  <img src="https://images.steamusercontent.com/ugc/16706076935950692857/AB074CF857EDDDD21454844CC70E80C6E2197F8B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" alt="Fernando de Noronha DayZ map" />
-</p>
+**Game development &amp; terrain design**
 
-A custom DayZ world inspired by the Fernando de Noronha archipelago, designed as a survival map first and a geographic homage second.
+Brazilian-inspired tropical survival world for DayZ, spanning a **10.24 × 10.24 km** terrain. Combines environment design, game systems and worldbuilding.
 
-The project combines terrain design, Brazilian identity, worldbuilding, atmosphere, configuration, and open-world gameplay considerations on a **10.24 × 10.24 km** terrain.
+`DayZ Workbench` · `Enfusion Script` · `Blender`
 
-**Highlights**
-- Tropical survival setting
-- Brazilian-inspired world identity
-- Terrain, gameplay systems, and environmental design
-- Long-term in-development project
-
-**Stack:** `DayZ Workbench` · `Terrain Builder` · `Enfusion Script` · `Blender`
-
-**Links:** [Repository](https://github.com/AdriianCOE/Noronha) · [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
+[Repository](https://github.com/AdriianCOE/Noronha) · [Steam Workshop ↗](https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894)
 
 <sub>Work in progress.</sub>
 
+<br clear="both" />
+
+## 04 / Technologies
+
+**Web &amp; product**
+<p>
+  <img src="https://img.shields.io/badge/React-182126?style=flat-square&amp;logo=react&amp;logoColor=E6EDF3" height="23" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-182126?style=flat-square&amp;logo=vite&amp;logoColor=E6EDF3" height="23" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-182126?style=flat-square&amp;logo=tailwindcss&amp;logoColor=E6EDF3" height="23" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Firebase-182126?style=flat-square&amp;logo=firebase&amp;logoColor=E6EDF3" height="23" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Cloudflare-182126?style=flat-square&amp;logo=cloudflare&amp;logoColor=E6EDF3" height="23" alt="Cloudflare" />
+</p>
+
+**Software &amp; automation**
+<p>
+  <img src="https://img.shields.io/badge/Rust-182126?style=flat-square&amp;logo=rust&amp;logoColor=E6EDF3" height="23" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-182126?style=flat-square&amp;logo=python&amp;logoColor=E6EDF3" height="23" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-182126?style=flat-square" height="23" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/.NET-182126?style=flat-square&amp;logo=dotnet&amp;logoColor=E6EDF3" height="23" alt=".NET" />
+</p>
+
+**Game development**
+<p>
+  <img src="https://img.shields.io/badge/Blender-182126?style=flat-square&amp;logo=blender&amp;logoColor=E6EDF3" height="23" alt="Blender" />
+  <img src="https://img.shields.io/badge/DayZ%20Workbench-182126?style=flat-square" height="23" alt="DayZ Workbench" />
+  <img src="https://img.shields.io/badge/Terrain%20Builder-182126?style=flat-square" height="23" alt="Terrain Builder" />
+  <img src="https://img.shields.io/badge/Enfusion%20Script-182126?style=flat-square" height="23" alt="Enfusion Script" />
+  <img src="https://img.shields.io/badge/Paradox%20Script-182126?style=flat-square" height="23" alt="Paradox Script" />
+</p>
+
 ---
 
-## What I work with
-
-**Web & product**  
-`React` · `Vite` · `Tailwind CSS` · `Firebase` · `Cloudflare`
-
-**Software & automation**  
-`Rust` · `Python` · `PowerShell` · `.NET`
-
-**Game development & worldbuilding**  
-`DayZ Workbench` · `Terrain Builder` · `Enfusion Script` · `Blender` · `Paradox Script`
-
-**Engineering interests**  
-Application security · data integrity · automation · product design
-
----
-
-## Contact
-
-If you're interested in software development, product building, automation, or game tooling, feel free to reach out.
-
-- [LinkedIn](https://www.linkedin.com/in/adrian-costaramos/)
-- [Email](mailto:tommycramos@gmail.com)
-- [PratoBy](https://pratoby.com)
-- [Ko-fi](https://ko-fi.com/M5U123Y4S4)
-
----
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrian-costaramos/">LinkedIn</a> ·
+  <a href="mailto:tommycramos@gmail.com">Email</a> ·
+  <a href="https://ko-fi.com/M5U123Y4S4">Support my work</a>
+</p>
 <p align="center">
   <img src="trooper.png" width="22" alt="Trooper icon" /><br />
   <sub><i>“Live to fight another day, boys.”</i> — Hardcase</sub>
