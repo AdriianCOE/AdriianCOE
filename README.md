@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Monochrome artwork combining military imagery and fictional worlds" />
+  <img src="terminal/terrain-banner.svg" width="100%" alt="Monochrome terminal wireframe terrain landscape" />
   <img src="terminal/identity.svg" width="100%" alt="Adrian Costa — Software developer and independent product builder" />
 </p>
 
@@ -39,39 +39,36 @@ My background in the Brazilian Army (28º BC) shapes my approach to discipline, 
 
 `React` · `Vite` · `Tailwind CSS` · `Firebase` · `Cloudflare`
 
-[**Explore PratoBy ↗**](https://pratoby.com)
+[**Explore PratoBy**](https://pratoby.com)
 
 ---
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p><code>002 / DESKTOP SOFTWARE</code></p>
-      <h3><a href="https://github.com/AdriianCOE/HOI4-Map-Editor">HOI4 Map Editor</a></h3>
+      <p><a href="https://github.com/AdriianCOE/HOI4-Map-Editor"><img src="terminal/project-002-title.svg" width="100%" alt="002 / HOI4 Map Editor — DESKTOP SOFTWARE" /></a></p>
       <p align="center"><a href="https://github.com/AdriianCOE/HOI4-Map-Editor"><img src="terminal/project-002-preview.svg" width="100%" alt="HOI4 Map Editor in use" /></a></p>
       <p>Visual province and state editing for Hearts of Iron IV, with project validation, backups and rollback.</p>
       <p><code>Rust</code> · <code>Desktop tooling</code></p>
-      <p><a href="https://github.com/AdriianCOE/HOI4-Map-Editor">Source</a> · <a href="https://github.com/AdriianCOE/HOI4-Map-Editor/releases">Releases</a></p>
+      <p><a href="https://github.com/AdriianCOE/HOI4-Map-Editor"><img src="terminal/project-source.svg" height="28" alt="SOURCE" /></a> <a href="https://github.com/AdriianCOE/HOI4-Map-Editor/releases"><img src="terminal/project-releases.svg" height="28" alt="RELEASES" /></a></p>
       <sub>Extends <a href="https://github.com/ScottyThePilot/hoi4_province_editor">ScottyThePilot's province editor</a>.</sub>
     </td>
     <td width="50%" valign="top">
-      <p><code>003 / AUTOMATION</code></p>
-      <h3><a href="https://github.com/AdriianCOE/NoronhaMapExporter">NoronhaMapExporter</a></h3>
-      <p align="center"><a href="https://adriiancoe.github.io/NoronhaMapExporter/"><img src="terminal/project-003-preview.svg" width="100%" alt="Map exported with NoronhaMapExporter" /></a></p>
+      <p><a href="https://github.com/AdriianCOE/NoronhaMapExporter"><img src="terminal/project-003-title.svg" width="100%" alt="003 / NoronhaMapExporter — AUTOMATION" /></a></p>
+      <p align="center"><a href="https://adriiancoe.github.io/NoronhaMapExporter/"><img src="https://raw.githubusercontent.com/AdriianCOE/NoronhaMapExporter/main/images/examples/noronha-master.jpg" width="100%" alt="Map exported with NoronhaMapExporter" /></a></p>
       <p>Native DayZ map capture and stitching. A documented export combines <strong>60 captures</strong> into a <strong>9,600 × 9,600 px</strong> image.</p>
       <p><code>Python</code> · <code>PowerShell</code> · <code>.NET</code></p>
-      <p><a href="https://github.com/AdriianCOE/NoronhaMapExporter">Source</a> · <a href="https://github.com/AdriianCOE/NoronhaMapExporter/releases">Releases</a> · <a href="https://adriiancoe.github.io/NoronhaMapExporter/">Live map ↗</a></p>
+      <p><a href="https://github.com/AdriianCOE/NoronhaMapExporter"><img src="terminal/project-source.svg" height="28" alt="SOURCE" /></a> <a href="https://github.com/AdriianCOE/NoronhaMapExporter/releases"><img src="terminal/project-releases.svg" height="28" alt="RELEASES" /></a> <a href="https://adriiancoe.github.io/NoronhaMapExporter/"><img src="terminal/project-live.svg" height="28" alt="LIVE MAP" /></a></p>
       <sub>Image processing &amp; automation.</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <p><a href="https://github.com/AdriianCOE/Noronha"><img src="terminal/project-004-title.svg" width="100%" alt="004 / Fernando de Noronha — WORLD BUILDING" /></a></p>
       <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894"><img align="right" src="https://images.steamusercontent.com/ugc/16706076935950692857/AB074CF857EDDDD21454844CC70E80C6E2197F8B/?imw=5000&amp;imh=5000&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" width="155" alt="Fernando de Noronha custom DayZ terrain" /></a>
-      <p><code>004 / WORLD BUILDING</code></p>
-      <h3><a href="https://github.com/AdriianCOE/Noronha">Fernando de Noronha</a></h3>
       <p>Brazilian-inspired tropical survival world for DayZ on a <strong>10.24 × 10.24 km</strong> terrain, combining environment design, game systems and worldbuilding.</p>
       <p><code>DayZ Workbench</code> · <code>Enfusion Script</code> · <code>Blender</code></p>
-      <p><a href="https://github.com/AdriianCOE/Noronha">Repository</a> · <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894">Steam Workshop ↗</a></p>
+      <p><a href="https://github.com/AdriianCOE/Noronha"><img src="terminal/project-repository.svg" height="28" alt="REPOSITORY" /></a> <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3682451894"><img src="terminal/project-workshop.svg" height="28" alt="WORKSHOP" /></a></p>
       <sub>Work in progress.</sub>
     </td>
   </tr>
