@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="168" viewBox="0 0 192 168" role="img" aria-labelledby="title"><title id="title">Original monochrome pixel-art explorer with orbiting stars</title><g shape-rendering="crispEdges">
+<rect width="192" height="168" fill="#080A0C"/>
+<g fill="#F0F1F0">
+<path d="M72 20H120V26H132V32H144V44H150V84H144V96H132V102H120V108H72V102H60V96H48V84H42V44H48V32H60V26H72Z"/>
+<path d="M72 103H120V114H132V126H138V138H126V144H114V156H102V144H90V156H78V144H66V138H54V126H60V114H72Z"/>
+<path d="M48 119H60V125H48V137H36V131H42V125H48Z M132 119H144V113H150V101H156V107H162V113H156V125H150V131H144V137H138Z"/>
+</g>
+<g fill="#080A0C">
+<path d="M72 26H120V32H132V38H138V50H144V78H138V90H126V96H114V102H78V96H66V90H54V78H48V50H54V38H60V32H72Z"/>
+<path d="M78 110H114V116H126V128H132V132H120V138H108V150H106V138H86V150H82V138H70V132H60V128H66V116H78Z"/>
+</g>
+<path d="M60 47H132V53H138V71H132V83H120V89H72V83H60V71H54V53H60Z" fill="#22272B" stroke="#F0F1F0" stroke-width="3"/>
+<path d="M65 53H82V59H71V65H65Z M120 59H126V70H120Z" fill="#F0F1F0"/>
+<path d="M82 113H110V119H116V129H76V119H82Z" fill="#34393D"/>
+<path d="M87 119H105V125H87Z" fill="#F0F1F0"/>
+<g fill="#F0F1F0">
+<rect x="18" y="34" width="4" height="16"/><rect x="12" y="40" width="16" height="4"/>
+<rect x="159" y="18" width="4" height="16"/><rect x="153" y="24" width="16" height="4"/>
+<rect x="170" y="69" width="4" height="12"/><rect x="166" y="73" width="12" height="4"/>
+<rect x="24" y="96" width="4" height="4"/><rect x="174" y="141" width="4" height="4"/>
+</g>
+<path d="M12 78H24V72H36V78H42V90H36V96H24V90H12V84H6V78Z M22 84H26" fill="none" stroke="#ACB0B3" stroke-width="2" stroke-linejoin="miter"/>
+<path d="M25 148H49M16 144H20M146 151H168" stroke="#53595D" stroke-width="2" stroke-dasharray="4 4"/>
+</g></svg>
