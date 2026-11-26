@@ -55,7 +55,7 @@ My background in the Brazilian Army (28º BC) shapes my approach to discipline, 
     </td>
     <td width="50%" valign="top">
       <p><a href="https://github.com/AdriianCOE/NoronhaMapExporter"><img src="terminal/project-003-title.svg" width="100%" alt="003 / NoronhaMapExporter — AUTOMATION" /></a></p>
-      <p align="center"><a href="https://adriiancoe.github.io/NoronhaMapExporter/"><img src="https://raw.githubusercontent.com/AdriianCOE/NoronhaMapExporter/main/images/examples/noronha-master.jpg" width="100%" alt="Map exported with NoronhaMapExporter" /></a></p>
+      <p align="center"><a href="https://adriiancoe.github.io/NoronhaMapExporter/"><img src="terminal/project-003-preview.svg" width="100%" alt="Map exported with NoronhaMapExporter" /></a></p>
       <p>Native DayZ map capture and stitching. A documented export combines <strong>60 captures</strong> into a <strong>9,600 × 9,600 px</strong> image.</p>
       <p><code>Python</code> · <code>PowerShell</code> · <code>.NET</code></p>
       <p><a href="https://github.com/AdriianCOE/NoronhaMapExporter"><img src="terminal/project-source.svg" height="28" alt="SOURCE" /></a> <a href="https://github.com/AdriianCOE/NoronhaMapExporter/releases"><img src="terminal/project-releases.svg" height="28" alt="RELEASES" /></a> <a href="https://adriiancoe.github.io/NoronhaMapExporter/"><img src="terminal/project-live.svg" height="28" alt="LIVE MAP" /></a></p>
