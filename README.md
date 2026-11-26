@@ -33,7 +33,7 @@ My background in the Brazilian Army (28º BC) shapes my approach to discipline, 
 
 <p><img src="terminal/02-work.svg" width="100%" alt="02 — Selected work" /></p>
 
-<a href="https://pratoby.com"><img src="terminal/pratoby.svg" width="100%" alt="PratoBy — digital menu and ordering SaaS; illustrative order flow" /></a>
+<a href="https://pratoby.com"><img src="terminal/pratoby-featured.svg" width="100%" alt="PratoBy — digital menu and ordering SaaS; illustrative order flow" /></a>
 
 **PratoBy** is an independent SaaS that helps restaurants operate their own digital ordering channels without marketplace commissions. I build across product, frontend, backend, payments, security and infrastructure.
 
